@@ -1,0 +1,34 @@
+const RPC_SET_POS 			= 12;
+const RPC_SET_POS_FIND_Z 	= 13;
+const RPC_SET_HEALTH 		= 14;
+const RPC_CONTROLLABLE		= 15;
+const RPC_RESET_WEAPON		= 21;
+const RPC_GIVE_WEAPON		= 22;	
+const RPC_SET_DRUNK_LEVEL 	= 35;
+const RPC_SET_WORLD			= 50;
+const RPC_SPAWN_PLAYER      = 52;
+const RPC_SET_ARMOUR 		= 66;
+const RPC_SET_ARM_WEAPON 	= 67;
+const RPC_PUT_VEHICLE		= 70;
+const RPC_REMOVE_VEHICLE    = 71;
+const RPC_APPLY_ANIMATION   = 86;
+const RPC_CLEAR_ANIMATION   = 87;
+const RPC_SET_ACTION		= 88;
+const RPC_VEHICLE_VELOCITY  = 91;
+const RPC_SPECTATING		= 124;
+const RPC_DESTROY_CAR		= 136;
+const RPC_SET_AMMO			= 145;
+const RPC_SET_VEH_POS		= 159;
+
+
+
+const PACKET_VEHICLE 		= 200;
+const PACKET_AIM 			= 203;
+const PACKET_WEAPON			= 204;
+const PACKET_BULLET 		= 206;
+const PACKET_PLAYER 		= 207;
+const PACKET_TRAILER 		= 210;
+const PACKET_UNOCCUPIED 	= 209;
+const PACKET_PASSENGER 		= 211;
+const PACKET_TRAILER 		= 210;
+

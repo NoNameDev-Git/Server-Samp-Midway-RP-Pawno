@@ -1,0 +1,4014 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[20:23:56] filterscripts = ""  (string)
+[20:23:56] 
+[20:23:56] Server Plugins
+[20:23:56] --------------
+[20:23:56]  Loading plugin: mysql
+[20:23:57]  >> plugin.mysql: R39-6 successfully loaded.
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: mysql_static
+[20:23:57]   Failed.
+[20:23:57]  Loading plugin: pawncmd
+[20:23:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: pawnregex
+[20:23:57] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: profiler
+[20:23:57]   Profiler plugin 2.15.3
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: sscanf
+[20:23:57] 
+
+[20:23:57]  ===============================
+
+[20:23:57]       sscanf plugin loaded.     
+
+[20:23:57]          Version:  2.8.3        
+
+[20:23:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:23:57]  ===============================
+
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: streamer
+[20:23:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:23:57]   Loaded.
+[20:23:57]  Loading plugin: TOTP
+[20:23:57] TOTP plugin v1.0.1 by Games loaded.
+[20:23:57]   Loaded.
+[20:23:57]  Loaded 7 plugins.
+
+[20:23:57] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:23:57] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[20:25:47] filterscripts = ""  (string)
+[20:25:47] 
+[20:25:47] Server Plugins
+[20:25:47] --------------
+[20:25:47]  Loading plugin: mysql
+[20:25:47]  >> plugin.mysql: R39-6 successfully loaded.
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: mysql_static
+[20:25:47]   Failed.
+[20:25:47]  Loading plugin: pawncmd
+[20:25:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: pawnregex
+[20:25:47] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: profiler
+[20:25:47]   Profiler plugin 2.15.3
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: sscanf
+[20:25:47] 
+
+[20:25:47]  ===============================
+
+[20:25:47]       sscanf plugin loaded.     
+
+[20:25:47]          Version:  2.8.3        
+
+[20:25:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:25:47]  ===============================
+
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: streamer
+[20:25:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:25:47]   Loaded.
+[20:25:47]  Loading plugin: TOTP
+[20:25:47] TOTP plugin v1.0.1 by Games loaded.
+[20:25:47]   Loaded.
+[20:25:47]  Loaded 7 plugins.
+
+[20:25:47] 
+[20:25:47] Filterscripts
+[20:25:47] ---------------
+[20:25:47]   Loaded 0 filterscripts.
+
+[20:25:47] Script[gamemodes/skylinerp.amx]: Run time error 19: "File or function is not found"
+[20:25:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[20:27:00] filterscripts = ""  (string)
+[20:27:00] 
+[20:27:00] Server Plugins
+[20:27:00] --------------
+[20:27:00]  Loading plugin: mysql
+[20:27:00]  >> plugin.mysql: R39-6 successfully loaded.
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: mysql_static
+[20:27:00]   Failed.
+[20:27:00]  Loading plugin: pawncmd
+[20:27:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: pawnregex
+[20:27:00] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: profiler
+[20:27:00]   Profiler plugin 2.15.3
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: sscanf
+[20:27:00] 
+
+[20:27:00]  ===============================
+
+[20:27:00]       sscanf plugin loaded.     
+
+[20:27:00]          Version:  2.8.3        
+
+[20:27:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:27:00]  ===============================
+
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: streamer
+[20:27:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:27:00]   Loaded.
+[20:27:00]  Loading plugin: TOTP
+[20:27:00] TOTP plugin v1.0.1 by Games loaded.
+[20:27:00]   Loaded.
+[20:27:00]  Loaded 7 plugins.
+
+[20:27:00] 
+[20:27:00] Filterscripts
+[20:27:00] ---------------
+[20:27:00]   Loaded 0 filterscripts.
+
+[20:27:00] Script[gamemodes/skylinerp.amx]: Run time error 19: "File or function is not found"
+[20:27:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[20:28:37] filterscripts = ""  (string)
+[20:28:37] 
+[20:28:37] Server Plugins
+[20:28:37] --------------
+[20:28:37]  Loading plugin: mysql
+[20:28:37]  >> plugin.mysql: R39-6 successfully loaded.
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: mysql_static
+[20:28:37]   Failed.
+[20:28:37]  Loading plugin: pawncmd
+[20:28:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: pawnregex
+[20:28:37] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: profiler
+[20:28:37]   Profiler plugin 2.15.3
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: sscanf
+[20:28:37] 
+
+[20:28:37]  ===============================
+
+[20:28:37]       sscanf plugin loaded.     
+
+[20:28:37]          Version:  2.8.3        
+
+[20:28:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:28:37]  ===============================
+
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: streamer
+[20:28:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:28:37]   Loaded.
+[20:28:37]  Loading plugin: TOTP
+[20:28:37] TOTP plugin v1.0.1 by Games loaded.
+[20:28:37]   Loaded.
+[20:28:37]  Loaded 7 plugins.
+
+[20:28:37] 
+[20:28:37] Filterscripts
+[20:28:37] ---------------
+[20:28:37]   Loaded 0 filterscripts.
+
+[20:28:37] Script[gamemodes/skylinerp.amx]: Run time error 19: "File or function is not found"
+[20:28:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:02] filterscripts = ""  (string)
+[20:38:02] 
+[20:38:02] Server Plugins
+[20:38:02] --------------
+[20:38:02]  Loading plugin: mysql
+[20:38:02]  >> plugin.mysql: R39-6 successfully loaded.
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: mysql_static
+[20:38:02]   Failed.
+[20:38:02]  Loading plugin: pawncmd
+[20:38:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: pawnregex
+[20:38:02] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: profiler
+[20:38:02]   Profiler plugin 2.15.3
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: sscanf
+[20:38:02] 
+
+[20:38:02]  ===============================
+
+[20:38:02]       sscanf plugin loaded.     
+
+[20:38:02]          Version:  2.8.3        
+
+[20:38:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:38:02]  ===============================
+
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: streamer
+[20:38:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:38:02]   Loaded.
+[20:38:02]  Loading plugin: TOTP
+[20:38:02] TOTP plugin v1.0.1 by Games loaded.
+[20:38:02]   Loaded.
+[20:38:02]  Loaded 7 plugins.
+
+[20:38:02] 
+[20:38:02] Filterscripts
+[20:38:02] ---------------
+[20:38:02]   Loaded 0 filterscripts.
+
+[20:38:02]  
+[20:38:02] --------------------------------------
+[20:38:02]  Античит Nex-AC загружен!
+[20:38:02]  Версия античита: 1.9.43
+[20:38:02]  Автор: Nexius
+[20:38:02] --------------------------------------
+
+[20:38:02] Подключение к базе данных выполнено успешно!
+[20:38:02] [SELLHOUSE] ID: 223 , TIME: 13:17:10, MS 47830083
+[20:38:02] LoadHouses
+[20:38:03] Началась загрузка Аллеи Славы
+[20:38:03] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[20:38:03] Закончилась загрузка Аллеи Славы
+[20:38:03] Все ворота созданы
+[20:38:03] Все позиции созданы
+[20:38:03] Все банкоматы созданы
+[20:38:03] -------------------
+[20:38:03] Все авто для аренды созданы
+[20:38:03] Все бизнесы созданы
+[20:38:06] [LOAD] Create Map
+[20:38:06]                     ______________________________
+
+[20:38:06]                     | Загружено домов:      0618 |
+[20:38:06]                     | Загружено бизнесов:   0078 |
+[20:38:06]                     | Созданно транспорта:  0282 |
+[20:38:06]                     | Созданно объектов:    6522 |
+[20:38:06]                     ______________________________
+[20:38:06] Number of vehicle models: 54
+[20:38:06] Filliang loaded
+[20:38:06] LoadMayor - SUCCECC
+[20:38:06] Products in the database is not found!
+[20:38:06] LoadProduct' - All 0 load
+[20:38:06] Территории банд загружены!
+[20:38:06] Load Mafia - TRUE
+[20:38:06] 'LoadOther' Load Time 0 m.s
+[20:39:26] [connection] 192.162.111.206:16352 requests connection cookie.
+[20:39:27] [connection] incoming connection: 192.162.111.206:16352 id: 0
+[20:39:27] [join] Miura_Ando has joined the server (0:192.162.111.206)
+[20:40:52] [part] Miura_Ando has left the server (0:1)
+[20:41:14] [connection] 192.162.111.206:46702 requests connection cookie.
+[20:41:15] [connection] incoming connection: 192.162.111.206:46702 id: 0
+[20:41:15] [join] Miura_Andoqqq has joined the server (0:192.162.111.206)
+[20:41:57] [part] Miura_Andoqqq has left the server (0:1)
+[20:43:16] [connection] 192.162.111.206:55305 requests connection cookie.
+[20:43:17] [connection] incoming connection: 192.162.111.206:55305 id: 0
+[20:43:17] [join] Miura_Ando has joined the server (0:192.162.111.206)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:44:44] filterscripts = ""  (string)
+[20:44:44] 
+[20:44:44] Server Plugins
+[20:44:44] --------------
+[20:44:44]  Loading plugin: mysql
+[20:44:44]  >> plugin.mysql: R39-6 successfully loaded.
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: mysql_static
+[20:44:44]   Failed.
+[20:44:44]  Loading plugin: pawncmd
+[20:44:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: pawnregex
+[20:44:44] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: profiler
+[20:44:44]   Profiler plugin 2.15.3
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: sscanf
+[20:44:44] 
+
+[20:44:44]  ===============================
+
+[20:44:44]       sscanf plugin loaded.     
+
+[20:44:44]          Version:  2.8.3        
+
+[20:44:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:44:44]  ===============================
+
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: streamer
+[20:44:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:44:44]   Loaded.
+[20:44:44]  Loading plugin: TOTP
+[20:44:44] TOTP plugin v1.0.1 by Games loaded.
+[20:44:44]   Loaded.
+[20:44:44]  Loaded 7 plugins.
+
+[20:44:45] 
+[20:44:45] Filterscripts
+[20:44:45] ---------------
+[20:44:45]   Loaded 0 filterscripts.
+
+[20:44:45]  
+[20:44:45] --------------------------------------
+[20:44:45]  Античит Nex-AC загружен!
+[20:44:45]  Версия античита: 1.9.43
+[20:44:45]  Автор: Nexius
+[20:44:45] --------------------------------------
+
+[20:44:45] Подключение к базе данных выполнено успешно!
+[20:44:45] [SELLHOUSE] ID: 223 , TIME: 15:10:15, MS 54615920
+[20:44:45] LoadHouses
+[20:44:45] Началась загрузка Аллеи Славы
+[20:44:45] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[20:44:45] Закончилась загрузка Аллеи Славы
+[20:44:45] Все ворота созданы
+[20:44:45] Все позиции созданы
+[20:44:45] Все банкоматы созданы
+[20:44:45] -------------------
+[20:44:45] [connection] 192.162.111.206:44207 requests connection cookie.
+[20:44:45] Все авто для аренды созданы
+[20:44:45] Все бизнесы созданы
+[20:44:49] [LOAD] Create Map
+[20:44:49]                     ______________________________
+
+[20:44:49]                     | Загружено домов:      0618 |
+[20:44:49]                     | Загружено бизнесов:   0078 |
+[20:44:49]                     | Созданно транспорта:  0282 |
+[20:44:49]                     | Созданно объектов:    6522 |
+[20:44:49]                     ______________________________
+[20:44:49] Number of vehicle models: 54
+[20:44:49] Filliang loaded
+[20:44:49] LoadMayor - SUCCECC
+[20:44:49] Products in the database is not found!
+[20:44:49] LoadProduct' - All 0 load
+[20:44:49] Территории банд загружены!
+[20:44:49] Load Mafia - TRUE
+[20:44:49] 'LoadOther' Load Time 0 m.s
+[20:48:01] [connection] 192.162.111.206:52387 requests connection cookie.
+[20:48:02] [connection] incoming connection: 192.162.111.206:52387 id: 0
+[20:48:02] [join] Miura_Ando has joined the server (0:192.162.111.206)
+[20:48:19] [part] Miura_Ando has left the server (0:2)
+[20:48:44] [connection] 192.162.111.206:21304 requests connection cookie.
+[20:48:45] [connection] incoming connection: 192.162.111.206:21304 id: 0
+[20:48:45] [join] Miura_Ando has joined the server (0:192.162.111.206)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:52:27] filterscripts = ""  (string)
+[20:52:27] 
+[20:52:27] Server Plugins
+[20:52:27] --------------
+[20:52:27]  Loading plugin: mysql
+[20:52:27]  >> plugin.mysql: R39-6 successfully loaded.
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: mysql_static
+[20:52:27]   Failed.
+[20:52:27]  Loading plugin: pawncmd
+[20:52:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: pawnregex
+[20:52:27] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: profiler
+[20:52:27]   Profiler plugin 2.15.3
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: sscanf
+[20:52:27] 
+
+[20:52:27]  ===============================
+
+[20:52:27]       sscanf plugin loaded.     
+
+[20:52:27]          Version:  2.8.3        
+
+[20:52:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:52:27]  ===============================
+
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: streamer
+[20:52:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:52:27]   Loaded.
+[20:52:27]  Loading plugin: TOTP
+[20:52:27] TOTP plugin v1.0.1 by Games loaded.
+[20:52:27]   Loaded.
+[20:52:27]  Loaded 7 plugins.
+
+[20:52:27] 
+[20:52:27] Filterscripts
+[20:52:27] ---------------
+[20:52:27]   Loaded 0 filterscripts.
+
+[20:52:27]  
+[20:52:27] --------------------------------------
+[20:52:27]  Античит Nex-AC загружен!
+[20:52:27]  Версия античита: 1.9.43
+[20:52:27]  Автор: Nexius
+[20:52:27] --------------------------------------
+
+[20:52:27] Подключение к базе данных выполнено успешно!
+[20:52:27] [SELLHOUSE] ID: 223 , TIME: 17:19:55, MS 62395218
+[20:52:27] LoadHouses
+[20:52:27] Началась загрузка Аллеи Славы
+[20:52:27] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[20:52:27] Закончилась загрузка Аллеи Славы
+[20:52:27] Все ворота созданы
+[20:52:27] Все позиции созданы
+[20:52:27] Все банкоматы созданы
+[20:52:27] -------------------
+[20:52:27] Все авто для аренды созданы
+[20:52:27] Все бизнесы созданы
+[20:52:31] [LOAD] Create Map
+[20:52:31]                     ______________________________
+
+[20:52:31]                     | Загружено домов:      0618 |
+[20:52:31]                     | Загружено бизнесов:   0078 |
+[20:52:31]                     | Созданно транспорта:  0282 |
+[20:52:31]                     | Созданно объектов:    6522 |
+[20:52:31]                     ______________________________
+[20:52:31] Number of vehicle models: 54
+[20:52:31] Filliang loaded
+[20:52:31] LoadMayor - SUCCECC
+[20:52:31] Products in the database is not found!
+[20:52:31] LoadProduct' - All 0 load
+[20:52:31] Территории банд загружены!
+[20:52:31] Load Mafia - TRUE
+[20:52:31] 'LoadOther' Load Time 0 m.s
+[20:52:56] [connection] 192.162.111.206:32099 requests connection cookie.
+[20:52:57] [connection] incoming connection: 192.162.111.206:32099 id: 0
+[20:52:57] [join] Miura_Ando has joined the server (0:192.162.111.206)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:50] filterscripts = ""  (string)
+[20:57:50] 
+[20:57:50] Server Plugins
+[20:57:50] --------------
+[20:57:50]  Loading plugin: mysql
+[20:57:50]  >> plugin.mysql: R39-6 successfully loaded.
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: mysql_static
+[20:57:50]   Failed.
+[20:57:50]  Loading plugin: pawncmd
+[20:57:50] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: pawnregex
+[20:57:50] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: profiler
+[20:57:50]   Profiler plugin 2.15.3
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: sscanf
+[20:57:50] 
+
+[20:57:50]  ===============================
+
+[20:57:50]       sscanf plugin loaded.     
+
+[20:57:50]          Version:  2.8.3        
+
+[20:57:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:57:50]  ===============================
+
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: streamer
+[20:57:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:57:50]   Loaded.
+[20:57:50]  Loading plugin: TOTP
+[20:57:50] TOTP plugin v1.0.1 by Games loaded.
+[20:57:50]   Loaded.
+[20:57:50]  Loaded 7 plugins.
+
+[20:57:50] 
+[20:57:50] Filterscripts
+[20:57:50] ---------------
+[20:57:50]   Loaded 0 filterscripts.
+
+[20:57:50]  
+[20:57:50] --------------------------------------
+[20:57:50]  Античит Nex-AC загружен!
+[20:57:50]  Версия античита: 1.9.43
+[20:57:50]  Автор: Nexius
+[20:57:50] --------------------------------------
+
+[20:57:50] Подключение к базе данных выполнено успешно!
+[20:57:50] [SELLHOUSE] ID: 223 , TIME: 18:50:33, MS 67833991
+[20:57:50] LoadHouses
+[20:57:50] Началась загрузка Аллеи Славы
+[20:57:50] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[20:57:50] Закончилась загрузка Аллеи Славы
+[20:57:50] Все ворота созданы
+[20:57:50] Все позиции созданы
+[20:57:50] Все банкоматы созданы
+[20:57:50] -------------------
+[20:57:50] Все авто для аренды созданы
+[20:57:50] Все бизнесы созданы
+[20:57:54] [LOAD] Create Map
+[20:57:54]                     ______________________________
+
+[20:57:54]                     | Загружено домов:      0618 |
+[20:57:54]                     | Загружено бизнесов:   0078 |
+[20:57:54]                     | Созданно транспорта:  0282 |
+[20:57:54]                     | Созданно объектов:    6522 |
+[20:57:54]                     ______________________________
+[20:57:54] Number of vehicle models: 54
+[20:57:54] Filliang loaded
+[20:57:54] LoadMayor - SUCCECC
+[20:57:54] Products in the database is not found!
+[20:57:54] LoadProduct' - All 0 load
+[20:57:54] Территории банд загружены!
+[20:57:54] Load Mafia - TRUE
+[20:57:54] 'LoadOther' Load Time 0 m.s
+[20:58:12] [connection] 192.162.111.206:4993 requests connection cookie.
+[20:58:13] [connection] incoming connection: 192.162.111.206:4993 id: 0
+[20:58:13] [join] Miura_Ando has joined the server (0:192.162.111.206)
+[20:58:20] [connection] 178.90.27.110:49328 requests connection cookie.
+[20:58:21] [connection] incoming connection: 178.90.27.110:49328 id: 1
+[20:58:22] [join] Nate_First has joined the server (1:178.90.27.110)
+[21:01:31] [part] Nate_First has left the server (1:1)
+[21:01:55] [connection] 178.90.27.110:63583 requests connection cookie.
+[21:01:56] [connection] incoming connection: 178.90.27.110:63583 id: 1
+[21:01:57] [join] Nate_First3 has joined the server (1:178.90.27.110)
+[21:01:57] [part] Nate_First3 has left the server (1:2)
+[21:02:31] [connection] 178.90.27.110:54950 requests connection cookie.
+[21:02:32] [connection] incoming connection: 178.90.27.110:54950 id: 1
+[21:02:32] [join] Nate_Firstf has joined the server (1:178.90.27.110)
+[21:03:20] [part] Nate_Firstf has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:09:45] filterscripts = ""  (string)
+[21:09:45] 
+[21:09:45] Server Plugins
+[21:09:45] --------------
+[21:09:45]  Loading plugin: mysql
+[21:09:45]  >> plugin.mysql: R39-6 successfully loaded.
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: mysql_static
+[21:09:45]   Failed.
+[21:09:45]  Loading plugin: pawncmd
+[21:09:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: pawnregex
+[21:09:45] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: profiler
+[21:09:45]   Profiler plugin 2.15.3
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: sscanf
+[21:09:45] 
+
+[21:09:45]  ===============================
+
+[21:09:45]       sscanf plugin loaded.     
+
+[21:09:45]          Version:  2.8.3        
+
+[21:09:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:09:45]  ===============================
+
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: streamer
+[21:09:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:09:45]   Loaded.
+[21:09:45]  Loading plugin: TOTP
+[21:09:45] TOTP plugin v1.0.1 by Games loaded.
+[21:09:45]   Loaded.
+[21:09:45]  Loaded 7 plugins.
+
+[21:09:46] 
+[21:09:46] Filterscripts
+[21:09:46] ---------------
+[21:09:46]   Loaded 0 filterscripts.
+
+[21:09:46]  
+[21:09:46] --------------------------------------
+[21:09:46]  Античит Nex-AC загружен!
+[21:09:46]  Версия античита: 1.9.43
+[21:09:46]  Автор: Nexius
+[21:09:46] --------------------------------------
+
+[21:09:46] Подключение к базе данных выполнено успешно!
+[21:09:46] [SELLHOUSE] ID: 223 , TIME: 02:11:30, MS 7890218
+[21:09:46] LoadHouses
+[21:09:46] Началась загрузка Аллеи Славы
+[21:09:46] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:09:46] Закончилась загрузка Аллеи Славы
+[21:09:46] Все ворота созданы
+[21:09:46] Все позиции созданы
+[21:09:46] Все банкоматы созданы
+[21:09:46] -------------------
+[21:09:46] Все авто для аренды созданы
+[21:09:46] Все бизнесы созданы
+[21:09:50] [LOAD] Create Map
+[21:09:50]                     ______________________________
+
+[21:09:50]                     | Загружено домов:      0618 |
+[21:09:50]                     | Загружено бизнесов:   0078 |
+[21:09:50]                     | Созданно транспорта:  0282 |
+[21:09:50]                     | Созданно объектов:    6522 |
+[21:09:50]                     ______________________________
+[21:09:50] Number of vehicle models: 54
+[21:09:50] Filliang loaded
+[21:09:50] LoadMayor - SUCCECC
+[21:09:50] Products in the database is not found!
+[21:09:50] LoadProduct' - All 0 load
+[21:09:50] Территории банд загружены!
+[21:09:50] Load Mafia - TRUE
+[21:09:50] 'LoadOther' Load Time 0 m.s
+[21:10:04] [connection] 192.162.111.206:14557 requests connection cookie.
+[21:10:05] [connection] incoming connection: 192.162.111.206:14557 id: 0
+[21:10:06] [join] Miura_Andop has joined the server (0:192.162.111.206)
+[21:10:24] Регистрация завершена!
+[21:10:27] [part] Miura_Andop has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:12:30] filterscripts = ""  (string)
+[21:12:30] 
+[21:12:30] Server Plugins
+[21:12:30] --------------
+[21:12:30]  Loading plugin: mysql
+[21:12:30]  >> plugin.mysql: R39-6 successfully loaded.
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: mysql_static
+[21:12:30]   Failed.
+[21:12:30]  Loading plugin: pawncmd
+[21:12:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: pawnregex
+[21:12:30] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: profiler
+[21:12:30]   Profiler plugin 2.15.3
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: sscanf
+[21:12:30] 
+
+[21:12:30]  ===============================
+
+[21:12:30]       sscanf plugin loaded.     
+
+[21:12:30]          Version:  2.8.3        
+
+[21:12:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:12:30]  ===============================
+
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: streamer
+[21:12:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:12:30]   Loaded.
+[21:12:30]  Loading plugin: TOTP
+[21:12:30] TOTP plugin v1.0.1 by Games loaded.
+[21:12:30]   Loaded.
+[21:12:30]  Loaded 7 plugins.
+
+[21:12:30] 
+[21:12:30] Filterscripts
+[21:12:30] ---------------
+[21:12:30]   Loaded 0 filterscripts.
+
+[21:12:31]  
+[21:12:31] --------------------------------------
+[21:12:31]  Античит Nex-AC загружен!
+[21:12:31]  Версия античита: 1.9.43
+[21:12:31]  Автор: Nexius
+[21:12:31] --------------------------------------
+
+[21:12:31] Подключение к базе данных выполнено успешно!
+[21:12:31] [SELLHOUSE] ID: 223 , TIME: 02:57:48, MS 10668538
+[21:12:31] LoadHouses
+[21:12:31] Началась загрузка Аллеи Славы
+[21:12:31] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:12:31] Закончилась загрузка Аллеи Славы
+[21:12:31] Все ворота созданы
+[21:12:31] Все позиции созданы
+[21:12:31] Все банкоматы созданы
+[21:12:31] -------------------
+[21:12:31] Все авто для аренды созданы
+[21:12:31] Все бизнесы созданы
+[21:12:34] [LOAD] Create Map
+[21:12:34]                     ______________________________
+
+[21:12:34]                     | Загружено домов:      0618 |
+[21:12:34]                     | Загружено бизнесов:   0078 |
+[21:12:34]                     | Созданно транспорта:  0282 |
+[21:12:34]                     | Созданно объектов:    6522 |
+[21:12:34]                     ______________________________
+[21:12:34] Number of vehicle models: 54
+[21:12:34] Filliang loaded
+[21:12:34] LoadMayor - SUCCECC
+[21:12:34] Products in the database is not found!
+[21:12:34] LoadProduct' - All 0 load
+[21:12:34] Территории банд загружены!
+[21:12:34] Load Mafia - TRUE
+[21:12:34] 'LoadOther' Load Time 0 m.s
+[21:12:46] [connection] 192.162.111.206:64348 requests connection cookie.
+[21:12:47] [connection] incoming connection: 192.162.111.206:64348 id: 0
+[21:12:47] [join] Miura_Andopp has joined the server (0:192.162.111.206)
+[21:13:06] Регистрация завершена!
+[21:13:23] [part] Miura_Andopp has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:04] filterscripts = ""  (string)
+[21:17:04] 
+[21:17:04] Server Plugins
+[21:17:04] --------------
+[21:17:04]  Loading plugin: mysql
+[21:17:04]  >> plugin.mysql: R39-6 successfully loaded.
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: mysql_static
+[21:17:04]   Failed.
+[21:17:04]  Loading plugin: pawncmd
+[21:17:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: pawnregex
+[21:17:04] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: profiler
+[21:17:04]   Profiler plugin 2.15.3
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: sscanf
+[21:17:04] 
+
+[21:17:04]  ===============================
+
+[21:17:04]       sscanf plugin loaded.     
+
+[21:17:04]          Version:  2.8.3        
+
+[21:17:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:17:04]  ===============================
+
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: streamer
+[21:17:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:17:04]   Loaded.
+[21:17:04]  Loading plugin: TOTP
+[21:17:04] TOTP plugin v1.0.1 by Games loaded.
+[21:17:04]   Loaded.
+[21:17:04]  Loaded 7 plugins.
+
+[21:17:04] 
+[21:17:04] Filterscripts
+[21:17:04] ---------------
+[21:17:04]   Loaded 0 filterscripts.
+
+[21:17:04]  
+[21:17:04] --------------------------------------
+[21:17:04]  Античит Nex-AC загружен!
+[21:17:04]  Версия античита: 1.9.43
+[21:17:04]  Автор: Nexius
+[21:17:04] --------------------------------------
+
+[21:17:04] Подключение к базе данных выполнено успешно!
+[21:17:04] [SELLHOUSE] ID: 223 , TIME: 04:14:25, MS 15265396
+[21:17:04] LoadHouses
+[21:17:04] Началась загрузка Аллеи Славы
+[21:17:04] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:17:04] Закончилась загрузка Аллеи Славы
+[21:17:04] Все ворота созданы
+[21:17:04] Все позиции созданы
+[21:17:04] Все банкоматы созданы
+[21:17:04] -------------------
+[21:17:04] Все авто для аренды созданы
+[21:17:04] Все бизнесы созданы
+[21:17:08] [LOAD] Create Map
+[21:17:08]                     ______________________________
+
+[21:17:08]                     | Загружено домов:      0618 |
+[21:17:08]                     | Загружено бизнесов:   0078 |
+[21:17:08]                     | Созданно транспорта:  0282 |
+[21:17:08]                     | Созданно объектов:    6522 |
+[21:17:08]                     ______________________________
+[21:17:08] Number of vehicle models: 54
+[21:17:08] Filliang loaded
+[21:17:08] LoadMayor - SUCCECC
+[21:17:08] Products in the database is not found!
+[21:17:08] LoadProduct' - All 0 load
+[21:17:08] Территории банд загружены!
+[21:17:08] Load Mafia - TRUE
+[21:17:08] 'LoadOther' Load Time 0 m.s
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:32] filterscripts = ""  (string)
+[21:17:32] 
+[21:17:32] Server Plugins
+[21:17:32] --------------
+[21:17:32]  Loading plugin: mysql
+[21:17:32]  >> plugin.mysql: R39-6 successfully loaded.
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: mysql_static
+[21:17:32]   Failed.
+[21:17:32]  Loading plugin: pawncmd
+[21:17:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: pawnregex
+[21:17:32] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: profiler
+[21:17:32]   Profiler plugin 2.15.3
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: sscanf
+[21:17:32] 
+
+[21:17:32]  ===============================
+
+[21:17:32]       sscanf plugin loaded.     
+
+[21:17:32]          Version:  2.8.3        
+
+[21:17:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:17:32]  ===============================
+
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: streamer
+[21:17:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: TOTP
+[21:17:32] TOTP plugin v1.0.1 by Games loaded.
+[21:17:32]   Loaded.
+[21:17:32]  Loaded 7 plugins.
+
+[21:17:32] [connection] 192.162.111.206:42545 requests connection cookie.
+[21:17:32] 
+[21:17:32] Filterscripts
+[21:17:32] ---------------
+[21:17:32]   Loaded 0 filterscripts.
+
+[21:17:32]  
+[21:17:32] --------------------------------------
+[21:17:32]  Античит Nex-AC загружен!
+[21:17:32]  Версия античита: 1.9.43
+[21:17:32]  Автор: Nexius
+[21:17:32] --------------------------------------
+
+[21:17:32] Подключение к базе данных выполнено успешно!
+[21:17:32] [SELLHOUSE] ID: 223 , TIME: 04:22:16, MS 15736869
+[21:17:32] LoadHouses
+[21:17:32] Началась загрузка Аллеи Славы
+[21:17:32] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:17:32] Закончилась загрузка Аллеи Славы
+[21:17:32] Все ворота созданы
+[21:17:32] Все позиции созданы
+[21:17:32] Все банкоматы созданы
+[21:17:32] -------------------
+[21:17:32] Все авто для аренды созданы
+[21:17:32] Все бизнесы созданы
+[21:17:36] [LOAD] Create Map
+[21:17:36]                     ______________________________
+
+[21:17:36]                     | Загружено домов:      0618 |
+[21:17:36]                     | Загружено бизнесов:   0078 |
+[21:17:36]                     | Созданно транспорта:  0282 |
+[21:17:36]                     | Созданно объектов:    6522 |
+[21:17:36]                     ______________________________
+[21:17:36] Number of vehicle models: 54
+[21:17:36] [connection] incoming connection: 192.162.111.206:42545 id: 0
+[21:17:36] [join] Miura_Andoppt has joined the server (0:192.162.111.206)
+[21:17:36] Filliang loaded
+[21:17:36] LoadMayor - SUCCECC
+[21:17:36] Products in the database is not found!
+[21:17:36] LoadProduct' - All 0 load
+[21:17:36] Территории банд загружены!
+[21:17:36] Load Mafia - TRUE
+[21:17:36] 'LoadOther' Load Time 0 m.s
+[21:17:50] Регистрация завершена!
+[21:17:53] [part] Miura_Andoppt has left the server (0:1)
+[21:18:19] [connection] 192.162.111.206:45235 requests connection cookie.
+[21:18:20] [connection] incoming connection: 192.162.111.206:45235 id: 0
+[21:18:20] [join] Miura_Andoppt has joined the server (0:192.162.111.206)
+[21:18:35] Регистрация завершена!
+[21:18:42] [part] Miura_Andoppt has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:08] filterscripts = ""  (string)
+[21:22:08] 
+[21:22:08] Server Plugins
+[21:22:08] --------------
+[21:22:08]  Loading plugin: mysql
+[21:22:08]  >> plugin.mysql: R39-6 successfully loaded.
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: mysql_static
+[21:22:08]   Failed.
+[21:22:08]  Loading plugin: pawncmd
+[21:22:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: pawnregex
+[21:22:08] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: profiler
+[21:22:08]   Profiler plugin 2.15.3
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: sscanf
+[21:22:08] 
+
+[21:22:08]  ===============================
+
+[21:22:08]       sscanf plugin loaded.     
+
+[21:22:08]          Version:  2.8.3        
+
+[21:22:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:22:08]  ===============================
+
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: streamer
+[21:22:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: TOTP
+[21:22:08] TOTP plugin v1.0.1 by Games loaded.
+[21:22:08]   Loaded.
+[21:22:08]  Loaded 7 plugins.
+
+[21:22:08] 
+[21:22:08] Filterscripts
+[21:22:08] ---------------
+[21:22:08]   Loaded 0 filterscripts.
+
+[21:22:08]  
+[21:22:08] --------------------------------------
+[21:22:08]  Античит Nex-AC загружен!
+[21:22:08]  Версия античита: 1.9.43
+[21:22:08]  Автор: Nexius
+[21:22:08] --------------------------------------
+
+[21:22:08] Подключение к базе данных выполнено успешно!
+[21:22:08] [SELLHOUSE] ID: 223 , TIME: 05:39:44, MS 20384241
+[21:22:08] LoadHouses
+[21:22:08] Началась загрузка Аллеи Славы
+[21:22:08] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:22:08] Закончилась загрузка Аллеи Славы
+[21:22:08] Все ворота созданы
+[21:22:08] Все позиции созданы
+[21:22:08] Все банкоматы созданы
+[21:22:08] -------------------
+[21:22:08] Все авто для аренды созданы
+[21:22:08] Все бизнесы созданы
+[21:22:12] [LOAD] Create Map
+[21:22:12]                     ______________________________
+
+[21:22:12]                     | Загружено домов:      0618 |
+[21:22:12]                     | Загружено бизнесов:   0078 |
+[21:22:12]                     | Созданно транспорта:  0282 |
+[21:22:12]                     | Созданно объектов:    6522 |
+[21:22:12]                     ______________________________
+[21:22:12] Number of vehicle models: 54
+[21:22:12] Filliang loaded
+[21:22:12] LoadMayor - SUCCECC
+[21:22:12] Products in the database is not found!
+[21:22:12] LoadProduct' - All 0 load
+[21:22:12] Территории банд загружены!
+[21:22:12] Load Mafia - TRUE
+[21:22:12] 'LoadOther' Load Time 0 m.s
+[21:22:29] [connection] 192.162.111.206:47856 requests connection cookie.
+[21:22:30] [connection] incoming connection: 192.162.111.206:47856 id: 0
+[21:22:30] [join] Miura_Andoppt has joined the server (0:192.162.111.206)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:57] filterscripts = ""  (string)
+[21:22:57] 
+[21:22:57] Server Plugins
+[21:22:57] --------------
+[21:22:57]  Loading plugin: mysql
+[21:22:57]  >> plugin.mysql: R39-6 successfully loaded.
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: mysql_static
+[21:22:57]   Failed.
+[21:22:57]  Loading plugin: pawncmd
+[21:22:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: pawnregex
+[21:22:57] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: profiler
+[21:22:57]   Profiler plugin 2.15.3
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: sscanf
+[21:22:57] 
+
+[21:22:57]  ===============================
+
+[21:22:57]       sscanf plugin loaded.     
+
+[21:22:57]          Version:  2.8.3        
+
+[21:22:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:22:57]  ===============================
+
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: streamer
+[21:22:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:22:57]   Loaded.
+[21:22:57]  Loading plugin: TOTP
+[21:22:57] TOTP plugin v1.0.1 by Games loaded.
+[21:22:57]   Loaded.
+[21:22:57]  Loaded 7 plugins.
+
+[21:22:57] 
+[21:22:57] Filterscripts
+[21:22:57] ---------------
+[21:22:57]   Loaded 0 filterscripts.
+
+[21:22:57]  
+[21:22:57] --------------------------------------
+[21:22:57]  Античит Nex-AC загружен!
+[21:22:57]  Версия античита: 1.9.43
+[21:22:57]  Автор: Nexius
+[21:22:57] --------------------------------------
+
+[21:22:57] Подключение к базе данных выполнено успешно!
+[21:22:57] [SELLHOUSE] ID: 223 , TIME: 05:53:29, MS 21209318
+[21:22:57] LoadHouses
+[21:22:57] Началась загрузка Аллеи Славы
+[21:22:57] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:22:57] Закончилась загрузка Аллеи Славы
+[21:22:57] Все ворота созданы
+[21:22:57] Все позиции созданы
+[21:22:57] Все банкоматы созданы
+[21:22:57] -------------------
+[21:22:57] Все авто для аренды созданы
+[21:22:57] Все бизнесы созданы
+[21:23:01] [LOAD] Create Map
+[21:23:01]                     ______________________________
+
+[21:23:01]                     | Загружено домов:      0618 |
+[21:23:01]                     | Загружено бизнесов:   0078 |
+[21:23:01]                     | Созданно транспорта:  0282 |
+[21:23:01]                     | Созданно объектов:    6522 |
+[21:23:01]                     ______________________________
+[21:23:01] Number of vehicle models: 54
+[21:23:01] Filliang loaded
+[21:23:01] LoadMayor - SUCCECC
+[21:23:01] Products in the database is not found!
+[21:23:01] LoadProduct' - All 0 load
+[21:23:01] Территории банд загружены!
+[21:23:01] Load Mafia - TRUE
+[21:23:01] 'LoadOther' Load Time 0 m.s
+[21:23:34] [connection] 192.162.111.206:43073 requests connection cookie.
+[21:23:35] [connection] incoming connection: 192.162.111.206:43073 id: 0
+[21:23:35] [join] Miura_Andoppt has joined the server (0:192.162.111.206)
+[21:23:50] Регистрация завершена!
+[21:23:55] [part] Miura_Andoppt has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:30:45] filterscripts = ""  (string)
+[21:30:45] 
+[21:30:45] Server Plugins
+[21:30:45] --------------
+[21:30:45]  Loading plugin: mysql
+[21:30:45]  >> plugin.mysql: R39-6 successfully loaded.
+[21:30:45]   Loaded.
+[21:30:45]  Loading plugin: mysql_static
+[21:30:45]   Failed.
+[21:30:45]  Loading plugin: pawncmd
+[21:30:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:30:45]   Loaded.
+[21:30:45]  Loading plugin: pawnregex
+[21:30:45] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:30:45]   Loaded.
+[21:30:45]  Loading plugin: profiler
+[21:30:45]   Profiler plugin 2.15.3
+[21:30:45]   Loaded.
+[21:30:45]  Loading plugin: sscanf
+[21:30:45] 
+
+[21:30:45]  ===============================
+
+[21:30:45]       sscanf plugin loaded.     
+
+[21:30:45]          Version:  2.8.3        
+
+[21:30:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:30:46]  ===============================
+
+[21:30:46]   Loaded.
+[21:30:46]  Loading plugin: streamer
+[21:30:46] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:30:46]   Loaded.
+[21:30:46]  Loading plugin: TOTP
+[21:30:46] TOTP plugin v1.0.1 by Games loaded.
+[21:30:46]   Loaded.
+[21:30:46]  Loaded 7 plugins.
+
+[21:30:46] 
+[21:30:46] Filterscripts
+[21:30:46] ---------------
+[21:30:46]   Loaded 0 filterscripts.
+
+[21:30:46]  
+[21:30:46] --------------------------------------
+[21:30:46]  Античит Nex-AC загружен!
+[21:30:46]  Версия античита: 1.9.43
+[21:30:46]  Автор: Nexius
+[21:30:46] --------------------------------------
+
+[21:30:46] Подключение к базе данных выполнено успешно!
+[21:30:46] [SELLHOUSE] ID: 223 , TIME: 08:05:06, MS 29106484
+[21:30:46] LoadHouses
+[21:30:46] Началась загрузка Аллеи Славы
+[21:30:46] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:30:46] Закончилась загрузка Аллеи Славы
+[21:30:46] Все ворота созданы
+[21:30:46] Все позиции созданы
+[21:30:46] Все банкоматы созданы
+[21:30:46] -------------------
+[21:30:46] Все авто для аренды созданы
+[21:30:46] Все бизнесы созданы
+[21:30:50] [LOAD] Create Map
+[21:30:50]                     ______________________________
+
+[21:30:50]                     | Загружено домов:      0618 |
+[21:30:50]                     | Загружено бизнесов:   0078 |
+[21:30:50]                     | Созданно транспорта:  0282 |
+[21:30:50]                     | Созданно объектов:    6522 |
+[21:30:50]                     ______________________________
+[21:30:50] Number of vehicle models: 54
+[21:30:50] Filliang loaded
+[21:30:50] LoadMayor - SUCCECC
+[21:30:50] Products in the database is not found!
+[21:30:50] LoadProduct' - All 0 load
+[21:30:50] Территории банд загружены!
+[21:30:50] Load Mafia - TRUE
+[21:30:50] 'LoadOther' Load Time 0 m.s
+[21:31:05] [connection] 192.162.111.206:41040 requests connection cookie.
+[21:31:06] [connection] incoming connection: 192.162.111.206:41040 id: 0
+[21:31:42] [connection] 192.162.111.206:3697 requests connection cookie.
+[21:31:43] [connection] incoming connection: 192.162.111.206:3697 id: 0
+[21:31:43] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[21:32:08] Регистрация завершена2
+[21:32:08] Регистрация завершена3
+[21:32:08] Регистрация завершена1
+[21:32:14] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:46:34] filterscripts = ""  (string)
+[21:46:34] 
+[21:46:34] Server Plugins
+[21:46:34] --------------
+[21:46:34]  Loading plugin: mysql
+[21:46:34]  >> plugin.mysql: R39-6 successfully loaded.
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: mysql_static
+[21:46:34]   Failed.
+[21:46:34]  Loading plugin: pawncmd
+[21:46:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: pawnregex
+[21:46:34] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: profiler
+[21:46:34]   Profiler plugin 2.15.3
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: sscanf
+[21:46:34] 
+
+[21:46:34]  ===============================
+
+[21:46:34]       sscanf plugin loaded.     
+
+[21:46:34]          Version:  2.8.3        
+
+[21:46:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:46:34]  ===============================
+
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: streamer
+[21:46:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:46:34]   Loaded.
+[21:46:34]  Loading plugin: TOTP
+[21:46:34] TOTP plugin v1.0.1 by Games loaded.
+[21:46:34]   Loaded.
+[21:46:34]  Loaded 7 plugins.
+
+[21:46:34] 
+[21:46:34] Filterscripts
+[21:46:34] ---------------
+[21:46:34]   Loaded 0 filterscripts.
+
+[21:46:35]  
+[21:46:35] --------------------------------------
+[21:46:35]  Античит Nex-AC загружен!
+[21:46:35]  Версия античита: 1.9.43
+[21:46:35]  Автор: Nexius
+[21:46:35] --------------------------------------
+
+[21:46:35] Подключение к базе данных выполнено успешно!
+[21:46:35] [SELLHOUSE] ID: 223 , TIME: 12:31:26, MS 45086037
+[21:46:35] LoadHouses
+[21:46:35] Началась загрузка Аллеи Славы
+[21:46:35] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[21:46:35] Закончилась загрузка Аллеи Славы
+[21:46:35] Все ворота созданы
+[21:46:35] Все позиции созданы
+[21:46:35] Все банкоматы созданы
+[21:46:35] -------------------
+[21:46:35] Все авто для аренды созданы
+[21:46:35] Все бизнесы созданы
+[21:46:38] [LOAD] Create Map
+[21:46:38]                     ______________________________
+
+[21:46:38]                     | Загружено домов:      0618 |
+[21:46:38]                     | Загружено бизнесов:   0078 |
+[21:46:38]                     | Созданно транспорта:  0282 |
+[21:46:38]                     | Созданно объектов:    6522 |
+[21:46:39]                     ______________________________
+[21:46:39] Number of vehicle models: 54
+[21:46:39] Filliang loaded
+[21:46:39] LoadMayor - SUCCECC
+[21:46:39] Products in the database is not found!
+[21:46:39] LoadProduct' - All 0 load
+[21:46:39] Территории банд загружены!
+[21:46:39] Load Mafia - TRUE
+[21:46:39] 'LoadOther' Load Time 0 m.s
+[21:46:57] [connection] 192.162.111.206:27294 requests connection cookie.
+[21:46:58] [connection] incoming connection: 192.162.111.206:27294 id: 0
+[21:46:58] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[21:47:13] Регистрация завершена4
+[21:47:13] Регистрация завершена5
+[21:47:13] Регистрация завершена6
+[21:47:13] Регистрация завершена1
+[21:47:51] [part] Dlinniy_Piton has left the server (0:1)
+[21:48:23] [connection] 192.162.111.206:37848 requests connection cookie.
+[21:48:24] [connection] incoming connection: 192.162.111.206:37848 id: 0
+[21:48:25] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[21:48:58] Регистрация завершена4
+[21:48:58] Регистрация завершена5
+[21:48:58] Регистрация завершена6
+[21:48:58] Регистрация завершена1
+[21:49:01] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:09] filterscripts = ""  (string)
+[22:00:09] 
+[22:00:09] Server Plugins
+[22:00:09] --------------
+[22:00:09]  Loading plugin: mysql
+[22:00:09]  >> plugin.mysql: R39-4 successfully loaded.
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: mysql_static
+[22:00:09]   Failed.
+[22:00:09]  Loading plugin: pawncmd
+[22:00:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: pawnregex
+[22:00:09] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: profiler
+[22:00:09]   Profiler plugin 2.15.3
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: sscanf
+[22:00:09] 
+
+[22:00:09]  ===============================
+
+[22:00:09]       sscanf plugin loaded.     
+
+[22:00:09]          Version:  2.8.3        
+
+[22:00:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:00:09]  ===============================
+
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: streamer
+[22:00:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:00:09]   Loaded.
+[22:00:09]  Loading plugin: TOTP
+[22:00:09] TOTP plugin v1.0.1 by Games loaded.
+[22:00:09]   Loaded.
+[22:00:09]  Loaded 7 plugins.
+
+[22:00:09] 
+[22:00:09] Filterscripts
+[22:00:09] ---------------
+[22:00:09]   Loaded 0 filterscripts.
+
+[22:00:09]  
+[22:00:09] --------------------------------------
+[22:00:09]  Античит Nex-AC загружен!
+[22:00:09]  Версия античита: 1.9.43
+[22:00:09]  Автор: Nexius
+[22:00:09] --------------------------------------
+
+[22:00:09] Подключение к базе данных выполнено успешно!
+[22:00:10] [SELLHOUSE] ID: 223 , TIME: 16:20:09, MS 58809256
+[22:00:10] LoadHouses
+[22:00:10] Началась загрузка Аллеи Славы
+[22:00:10] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:00:10] Закончилась загрузка Аллеи Славы
+[22:00:10] Все ворота созданы
+[22:00:10] Все позиции созданы
+[22:00:10] Все банкоматы созданы
+[22:00:10] -------------------
+[22:00:10] Все авто для аренды созданы
+[22:00:10] Все бизнесы созданы
+[22:00:13] [LOAD] Create Map
+[22:00:13]                     ______________________________
+
+[22:00:13]                     | Загружено домов:      0618 |
+[22:00:13]                     | Загружено бизнесов:   0078 |
+[22:00:13]                     | Созданно транспорта:  0282 |
+[22:00:13]                     | Созданно объектов:    6522 |
+[22:00:13]                     ______________________________
+[22:00:13] Number of vehicle models: 54
+[22:00:13] Filliang loaded
+[22:00:13] LoadMayor - SUCCECC
+[22:00:13] Products in the database is not found!
+[22:00:13] LoadProduct' - All 0 load
+[22:00:13] Территории банд загружены!
+[22:00:13] Load Mafia - TRUE
+[22:00:13] 'LoadOther' Load Time 0 m.s
+[22:00:57] [connection] 192.162.111.206:28668 requests connection cookie.
+[22:00:58] [connection] incoming connection: 192.162.111.206:28668 id: 0
+[22:00:59] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:01:14] Регистрация завершена1
+[22:01:14] Регистрация завершена2
+[22:01:14] Регистрация завершена3
+[22:01:20] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:04:58] filterscripts = ""  (string)
+[22:04:58] 
+[22:04:58] Server Plugins
+[22:04:58] --------------
+[22:04:58]  Loading plugin: mysql
+[22:04:58]  >> plugin.mysql: R39-4 successfully loaded.
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: mysql_static
+[22:04:58]   Failed.
+[22:04:58]  Loading plugin: pawncmd
+[22:04:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: pawnregex
+[22:04:58] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: profiler
+[22:04:58]   Profiler plugin 2.15.3
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: sscanf
+[22:04:58] 
+
+[22:04:58]  ===============================
+
+[22:04:58]       sscanf plugin loaded.     
+
+[22:04:58]          Version:  2.8.3        
+
+[22:04:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:04:58]  ===============================
+
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: streamer
+[22:04:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:04:58]   Loaded.
+[22:04:58]  Loading plugin: TOTP
+[22:04:58] TOTP plugin v1.0.1 by Games loaded.
+[22:04:58]   Loaded.
+[22:04:58]  Loaded 7 plugins.
+
+[22:04:58] 
+[22:04:58] Filterscripts
+[22:04:58] ---------------
+[22:04:58]   Loaded 0 filterscripts.
+
+[22:04:58]  
+[22:04:58] --------------------------------------
+[22:04:58]  Античит Nex-AC загружен!
+[22:04:58]  Версия античита: 1.9.43
+[22:04:58]  Автор: Nexius
+[22:04:58] --------------------------------------
+
+[22:04:58] Подключение к базе данных выполнено успешно!
+[22:04:59] [SELLHOUSE] ID: 223 , TIME: 17:41:15, MS 63675527
+[22:04:59] LoadHouses
+[22:04:59] Началась загрузка Аллеи Славы
+[22:04:59] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:04:59] Закончилась загрузка Аллеи Славы
+[22:04:59] Все ворота созданы
+[22:04:59] Все позиции созданы
+[22:04:59] Все банкоматы созданы
+[22:04:59] -------------------
+[22:04:59] Все авто для аренды созданы
+[22:04:59] Все бизнесы созданы
+[22:05:03] [LOAD] Create Map
+[22:05:03]                     ______________________________
+
+[22:05:03]                     | Загружено домов:      0618 |
+[22:05:03]                     | Загружено бизнесов:   0078 |
+[22:05:03]                     | Созданно транспорта:  0282 |
+[22:05:03]                     | Созданно объектов:    6522 |
+[22:05:03]                     ______________________________
+[22:05:03] Number of vehicle models: 54
+[22:05:03] Filliang loaded
+[22:05:03] LoadMayor - SUCCECC
+[22:05:03] Products in the database is not found!
+[22:05:03] LoadProduct' - All 0 load
+[22:05:03] Территории банд загружены!
+[22:05:03] Load Mafia - TRUE
+[22:05:03] 'LoadOther' Load Time 0 m.s
+[22:05:22] [connection] 192.162.111.206:35399 requests connection cookie.
+[22:05:23] [connection] incoming connection: 192.162.111.206:35399 id: 0
+[22:05:23] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:05:43] Регистрация завершена1
+[22:05:43] Регистрация завершена2
+[22:05:43] Регистрация завершена3
+[22:05:48] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:06] filterscripts = ""  (string)
+[22:08:06] 
+[22:08:06] Server Plugins
+[22:08:06] --------------
+[22:08:06]  Loading plugin: mysql
+[22:08:06]  >> plugin.mysql: R39-6 successfully loaded.
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: mysql_static
+[22:08:06]   Failed.
+[22:08:06]  Loading plugin: pawncmd
+[22:08:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: pawnregex
+[22:08:06] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: profiler
+[22:08:06]   Profiler plugin 2.15.3
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: sscanf
+[22:08:06] 
+
+[22:08:06]  ===============================
+
+[22:08:06]       sscanf plugin loaded.     
+
+[22:08:06]          Version:  2.8.3        
+
+[22:08:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:08:06]  ===============================
+
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: streamer
+[22:08:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:08:06]   Loaded.
+[22:08:06]  Loading plugin: TOTP
+[22:08:06] TOTP plugin v1.0.1 by Games loaded.
+[22:08:06]   Loaded.
+[22:08:06]  Loaded 7 plugins.
+
+[22:08:06] 
+[22:08:06] Filterscripts
+[22:08:06] ---------------
+[22:08:06]   Loaded 0 filterscripts.
+
+[22:08:06]  
+[22:08:06] --------------------------------------
+[22:08:06]  Античит Nex-AC загружен!
+[22:08:06]  Версия античита: 1.9.43
+[22:08:06]  Автор: Nexius
+[22:08:06] --------------------------------------
+
+[22:08:06] Подключение к базе данных выполнено успешно!
+[22:08:06] [SELLHOUSE] ID: 223 , TIME: 18:33:44, MS 66824290
+[22:08:06] LoadHouses
+[22:08:06] Началась загрузка Аллеи Славы
+[22:08:07] UPDATE `accounts` SET `PointsMoney` = '8258231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:08:07] Закончилась загрузка Аллеи Славы
+[22:08:07] Все ворота созданы
+[22:08:07] Все позиции созданы
+[22:08:07] Все банкоматы созданы
+[22:08:07] -------------------
+[22:08:07] Все авто для аренды созданы
+[22:08:07] Все бизнесы созданы
+[22:08:10] [LOAD] Create Map
+[22:08:10]                     ______________________________
+
+[22:08:10]                     | Загружено домов:      0618 |
+[22:08:10]                     | Загружено бизнесов:   0078 |
+[22:08:10]                     | Созданно транспорта:  0282 |
+[22:08:10]                     | Созданно объектов:    6522 |
+[22:08:10]                     ______________________________
+[22:08:10] Number of vehicle models: 54
+[22:08:10] Filliang loaded
+[22:08:10] LoadMayor - SUCCECC
+[22:08:10] Products in the database is not found!
+[22:08:10] LoadProduct' - All 0 load
+[22:08:10] Территории банд загружены!
+[22:08:10] Load Mafia - TRUE
+[22:08:10] 'LoadOther' Load Time 0 m.s
+[22:08:34] [connection] 192.162.111.206:61146 requests connection cookie.
+[22:08:35] [connection] incoming connection: 192.162.111.206:61146 id: 0
+[22:08:35] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:08:52] Регистрация завершена1
+[22:08:52] Регистрация завершена2
+[22:08:52] Регистрация завершена3
+[22:08:59] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:19:09] filterscripts = ""  (string)
+[22:19:09] 
+[22:19:09] Server Plugins
+[22:19:09] --------------
+[22:19:09]  Loading plugin: mysql
+[22:19:09]  >> plugin.mysql: R39-6 successfully loaded.
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: mysql_static
+[22:19:09]   Failed.
+[22:19:09]  Loading plugin: pawncmd
+[22:19:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: pawnregex
+[22:19:09] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: profiler
+[22:19:09]   Profiler plugin 2.15.3
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: sscanf
+[22:19:09] 
+
+[22:19:09]  ===============================
+
+[22:19:09]       sscanf plugin loaded.     
+
+[22:19:09]          Version:  2.8.3        
+
+[22:19:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:19:09]  ===============================
+
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: streamer
+[22:19:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:19:09]   Loaded.
+[22:19:09]  Loading plugin: TOTP
+[22:19:09] TOTP plugin v1.0.1 by Games loaded.
+[22:19:09]   Loaded.
+[22:19:09]  Loaded 7 plugins.
+
+[22:19:09] 
+[22:19:09] Filterscripts
+[22:19:09] ---------------
+[22:19:09]   Loaded 0 filterscripts.
+
+[22:19:09]  
+[22:19:09] --------------------------------------
+[22:19:09]  Античит Nex-AC загружен!
+[22:19:09]  Версия античита: 1.9.43
+[22:19:09]  Автор: Nexius
+[22:19:09] --------------------------------------
+
+[22:19:09] Подключение к базе данных выполнено успешно!
+[22:19:10] [SELLHOUSE] ID: 223 , TIME: 21:40:04, MS 78004925
+[22:19:10] LoadHouses
+[22:19:10] Началась загрузка Аллеи Славы
+[22:19:10] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:19:10] Закончилась загрузка Аллеи Славы
+[22:19:10] Все ворота созданы
+[22:19:10] Все позиции созданы
+[22:19:10] Все банкоматы созданы
+[22:19:10] -------------------
+[22:19:10] Все авто для аренды созданы
+[22:19:10] Все бизнесы созданы
+[22:19:13] [LOAD] Create Map
+[22:19:13]                     ______________________________
+
+[22:19:13]                     | Загружено домов:      0618 |
+[22:19:13]                     | Загружено бизнесов:   0078 |
+[22:19:13]                     | Созданно транспорта:  0282 |
+[22:19:13]                     | Созданно объектов:    6522 |
+[22:19:13]                     ______________________________
+[22:19:13] Number of vehicle models: 54
+[22:19:13] Filliang loaded
+[22:19:14] LoadMayor - SUCCECC
+[22:19:14] Products in the database is not found!
+[22:19:14] LoadProduct' - All 0 load
+[22:19:14] Территории банд загружены!
+[22:19:14] Load Mafia - TRUE
+[22:19:14] 'LoadOther' Load Time 0 m.s
+[22:20:25] [connection] 192.162.111.206:2310 requests connection cookie.
+[22:20:26] [connection] incoming connection: 192.162.111.206:2310 id: 0
+[22:20:26] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:20:42] Регистрация завершена1
+[22:20:42] Регистрация завершена2
+[22:20:42] Регистрация завершена3
+[22:20:46] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:22:46] filterscripts = ""  (string)
+[22:22:46] 
+[22:22:46] Server Plugins
+[22:22:46] --------------
+[22:22:46]  Loading plugin: mysql
+[22:22:46]  >> plugin.mysql: R39-6 successfully loaded.
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: mysql_static
+[22:22:46]   Failed.
+[22:22:46]  Loading plugin: pawncmd
+[22:22:46] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: pawnregex
+[22:22:46] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: profiler
+[22:22:46]   Profiler plugin 2.15.3
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: sscanf
+[22:22:46] 
+
+[22:22:46]  ===============================
+
+[22:22:46]       sscanf plugin loaded.     
+
+[22:22:46]          Version:  2.8.3        
+
+[22:22:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:22:46]  ===============================
+
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: streamer
+[22:22:46] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:22:46]   Loaded.
+[22:22:46]  Loading plugin: TOTP
+[22:22:46] TOTP plugin v1.0.1 by Games loaded.
+[22:22:46]   Loaded.
+[22:22:46]  Loaded 7 plugins.
+
+[22:22:46] 
+[22:22:46] Filterscripts
+[22:22:46] ---------------
+[22:22:46]   Loaded 0 filterscripts.
+
+[22:22:46]  
+[22:22:46] --------------------------------------
+[22:22:46]  Античит Nex-AC загружен!
+[22:22:46]  Версия античита: 1.9.43
+[22:22:46]  Автор: Nexius
+[22:22:46] --------------------------------------
+
+[22:22:46] Подключение к базе данных выполнено успешно!
+[22:22:46] [SELLHOUSE] ID: 223 , TIME: 02:40:42, MS 9642000
+[22:22:46] LoadHouses
+[22:22:46] Началась загрузка Аллеи Славы
+[22:22:46] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:22:46] Закончилась загрузка Аллеи Славы
+[22:22:46] Все ворота созданы
+[22:22:46] Все позиции созданы
+[22:22:46] Все банкоматы созданы
+[22:22:46] -------------------
+[22:22:46] Все авто для аренды созданы
+[22:22:46] Все бизнесы созданы
+[22:22:50] [LOAD] Create Map
+[22:22:50]                     ______________________________
+
+[22:22:50]                     | Загружено домов:      0618 |
+[22:22:50]                     | Загружено бизнесов:   0078 |
+[22:22:50]                     | Созданно транспорта:  0282 |
+[22:22:50]                     | Созданно объектов:    6522 |
+[22:22:50]                     ______________________________
+[22:22:50] Number of vehicle models: 54
+[22:22:50] Filliang loaded
+[22:22:50] LoadMayor - SUCCECC
+[22:22:50] Products in the database is not found!
+[22:22:50] LoadProduct' - All 0 load
+[22:22:50] Территории банд загружены!
+[22:22:50] Load Mafia - TRUE
+[22:22:50] 'LoadOther' Load Time 0 m.s
+[22:23:07] [connection] 192.162.111.206:1182 requests connection cookie.
+[22:23:08] [connection] incoming connection: 192.162.111.206:1182 id: 0
+[22:23:08] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:23:25] Регистрация завершена1
+[22:23:25] Регистрация завершена2
+[22:23:25] Регистрация завершена3
+[22:23:28] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:42] filterscripts = ""  (string)
+[22:34:42] 
+[22:34:42] Server Plugins
+[22:34:42] --------------
+[22:34:42]  Loading plugin: mysql
+[22:34:42]  >> plugin.mysql: R39-6 successfully loaded.
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: mysql_static
+[22:34:42]   Failed.
+[22:34:42]  Loading plugin: pawncmd
+[22:34:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: pawnregex
+[22:34:42] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: profiler
+[22:34:42]   Profiler plugin 2.15.3
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: sscanf
+[22:34:42] 
+
+[22:34:42]  ===============================
+
+[22:34:42]       sscanf plugin loaded.     
+
+[22:34:42]          Version:  2.8.3        
+
+[22:34:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:34:42]  ===============================
+
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: streamer
+[22:34:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:34:42]   Loaded.
+[22:34:42]  Loading plugin: TOTP
+[22:34:42] TOTP plugin v1.0.1 by Games loaded.
+[22:34:42]   Loaded.
+[22:34:42]  Loaded 7 plugins.
+
+[22:34:42] 
+[22:34:42] Filterscripts
+[22:34:42] ---------------
+[22:34:42]   Loaded 0 filterscripts.
+
+[22:34:42]  
+[22:34:42] --------------------------------------
+[22:34:42]  Античит Nex-AC загружен!
+[22:34:42]  Версия античита: 1.9.43
+[22:34:42]  Автор: Nexius
+[22:34:42] --------------------------------------
+
+[22:34:42] Подключение к базе данных выполнено успешно!
+[22:34:42] [SELLHOUSE] ID: 223 , TIME: 06:01:38, MS 21698227
+[22:34:42] LoadHouses
+[22:34:42] Началась загрузка Аллеи Славы
+[22:34:43] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:34:43] Закончилась загрузка Аллеи Славы
+[22:34:43] Все ворота созданы
+[22:34:43] Все позиции созданы
+[22:34:43] Все банкоматы созданы
+[22:34:43] -------------------
+[22:34:43] Все авто для аренды созданы
+[22:34:43] Все бизнесы созданы
+[22:34:46] [LOAD] Create Map
+[22:34:46]                     ______________________________
+
+[22:34:46]                     | Загружено домов:      0618 |
+[22:34:46]                     | Загружено бизнесов:   0078 |
+[22:34:46]                     | Созданно транспорта:  0282 |
+[22:34:46]                     | Созданно объектов:    6522 |
+[22:34:46]                     ______________________________
+[22:34:46] Number of vehicle models: 54
+[22:34:46] Filliang loaded
+[22:34:46] LoadMayor - SUCCECC
+[22:34:46] Products in the database is not found!
+[22:34:46] LoadProduct' - All 0 load
+[22:34:46] Территории банд загружены!
+[22:34:46] Load Mafia - TRUE
+[22:34:46] 'LoadOther' Load Time 0 m.s
+[22:35:06] [connection] 192.162.111.206:6186 requests connection cookie.
+[22:35:07] [connection] incoming connection: 192.162.111.206:6186 id: 0
+[22:35:07] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:35:27] Регистрация завершена1
+[22:35:27] Регистрация завершена2
+[22:35:27] Регистрация завершена3
+[22:35:31] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:36:23] filterscripts = ""  (string)
+[22:36:23] 
+[22:36:23] Server Plugins
+[22:36:23] --------------
+[22:36:23]  Loading plugin: mysql
+[22:36:23]  >> plugin.mysql: R39-6 successfully loaded.
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: mysql_static
+[22:36:23]   Failed.
+[22:36:23]  Loading plugin: pawncmd
+[22:36:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: pawnregex
+[22:36:23] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: profiler
+[22:36:23]   Profiler plugin 2.15.3
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: sscanf
+[22:36:23] 
+
+[22:36:23]  ===============================
+
+[22:36:23]       sscanf plugin loaded.     
+
+[22:36:23]          Version:  2.8.3        
+
+[22:36:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:36:23]  ===============================
+
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: streamer
+[22:36:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:36:23]   Loaded.
+[22:36:23]  Loading plugin: TOTP
+[22:36:23] TOTP plugin v1.0.1 by Games loaded.
+[22:36:23]   Loaded.
+[22:36:23]  Loaded 7 plugins.
+
+[22:36:23] 
+[22:36:23] Filterscripts
+[22:36:23] ---------------
+[22:36:23]   Loaded 0 filterscripts.
+
+[22:36:23]  
+[22:36:23] --------------------------------------
+[22:36:23]  Античит Nex-AC загружен!
+[22:36:23]  Версия античита: 1.9.43
+[22:36:23]  Автор: Nexius
+[22:36:23] --------------------------------------
+
+[22:36:23] Подключение к базе данных выполнено успешно!
+[22:36:23] [SELLHOUSE] ID: 223 , TIME: 06:29:58, MS 23398896
+[22:36:23] LoadHouses
+[22:36:23] Началась загрузка Аллеи Славы
+[22:36:23] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:36:23] Закончилась загрузка Аллеи Славы
+[22:36:23] Все ворота созданы
+[22:36:23] Все позиции созданы
+[22:36:23] Все банкоматы созданы
+[22:36:23] -------------------
+[22:36:23] Все авто для аренды созданы
+[22:36:23] Все бизнесы созданы
+[22:36:27] [LOAD] Create Map
+[22:36:27]                     ______________________________
+
+[22:36:27]                     | Загружено домов:      0618 |
+[22:36:27]                     | Загружено бизнесов:   0078 |
+[22:36:27]                     | Созданно транспорта:  0282 |
+[22:36:27]                     | Созданно объектов:    6522 |
+[22:36:27]                     ______________________________
+[22:36:27] Number of vehicle models: 54
+[22:36:27] Filliang loaded
+[22:36:27] LoadMayor - SUCCECC
+[22:36:27] Products in the database is not found!
+[22:36:27] LoadProduct' - All 0 load
+[22:36:27] Территории банд загружены!
+[22:36:27] Load Mafia - TRUE
+[22:36:27] 'LoadOther' Load Time 0 m.s
+[22:37:44] [connection] 192.162.111.206:25803 requests connection cookie.
+[22:37:45] [connection] incoming connection: 192.162.111.206:25803 id: 0
+[22:37:45] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:38:04] Регистрация завершена1
+[22:38:04] Регистрация завершена2
+[22:38:04] Регистрация завершена3
+[22:38:09] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:39:17] filterscripts = ""  (string)
+[22:39:17] 
+[22:39:17] Server Plugins
+[22:39:17] --------------
+[22:39:17]  Loading plugin: mysql
+[22:39:17]  >> plugin.mysql: R39-6 successfully loaded.
+[22:39:17]   Loaded.
+[22:39:17]  Loading plugin: mysql_static
+[22:39:17]   Failed.
+[22:39:17]  Loading plugin: pawncmd
+[22:39:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:39:17]   Loaded.
+[22:39:17]  Loading plugin: pawnregex
+[22:39:17] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:39:17]   Loaded.
+[22:39:17]  Loading plugin: profiler
+[22:39:17]   Profiler plugin 2.15.3
+[22:39:17]   Loaded.
+[22:39:17]  Loading plugin: sscanf
+[22:39:17] 
+
+[22:39:17]  ===============================
+
+[22:39:17]       sscanf plugin loaded.     
+
+[22:39:18]          Version:  2.8.3        
+
+[22:39:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:39:18]  ===============================
+
+[22:39:18]   Loaded.
+[22:39:18]  Loading plugin: streamer
+[22:39:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:39:18]   Loaded.
+[22:39:18]  Loading plugin: TOTP
+[22:39:18] TOTP plugin v1.0.1 by Games loaded.
+[22:39:18]   Loaded.
+[22:39:18]  Loaded 7 plugins.
+
+[22:39:18] 
+[22:39:18] Filterscripts
+[22:39:18] ---------------
+[22:39:18]   Loaded 0 filterscripts.
+
+[22:39:18]  
+[22:39:18] --------------------------------------
+[22:39:18]  Античит Nex-AC загружен!
+[22:39:18]  Версия античита: 1.9.43
+[22:39:18]  Автор: Nexius
+[22:39:18] --------------------------------------
+
+[22:39:18] Подключение к базе данных выполнено успешно!
+[22:39:18] [SELLHOUSE] ID: 223 , TIME: 07:19:05, MS 26345600
+[22:39:18] LoadHouses
+[22:39:18] Началась загрузка Аллеи Славы
+[22:39:18] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[22:39:18] Закончилась загрузка Аллеи Славы
+[22:39:18] Все ворота созданы
+[22:39:18] Все позиции созданы
+[22:39:18] Все банкоматы созданы
+[22:39:18] -------------------
+[22:39:18] Все авто для аренды созданы
+[22:39:18] Все бизнесы созданы
+[22:39:22] [LOAD] Create Map
+[22:39:22]                     ______________________________
+
+[22:39:22]                     | Загружено домов:      0618 |
+[22:39:22]                     | Загружено бизнесов:   0078 |
+[22:39:22]                     | Созданно транспорта:  0282 |
+[22:39:22]                     | Созданно объектов:    6522 |
+[22:39:22]                     ______________________________
+[22:39:22] Number of vehicle models: 54
+[22:39:22] Filliang loaded
+[22:39:22] LoadMayor - SUCCECC
+[22:39:22] Products in the database is not found!
+[22:39:22] LoadProduct' - All 0 load
+[22:39:22] Территории банд загружены!
+[22:39:22] Load Mafia - TRUE
+[22:39:22] 'LoadOther' Load Time 0 m.s
+[22:39:43] [connection] 192.162.111.206:20581 requests connection cookie.
+[22:39:44] [connection] incoming connection: 192.162.111.206:20581 id: 0
+[22:39:44] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[22:40:01] Регистрация завершена1
+[22:40:01] Регистрация завершена2
+[22:40:01] Регистрация завершена3
+[22:40:07] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:21:23] filterscripts = ""  (string)
+[23:21:23] 
+[23:21:23] Server Plugins
+[23:21:23] --------------
+[23:21:23]  Loading plugin: mysql
+[23:21:23]  >> plugin.mysql: R39-6 successfully loaded.
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: mysql_static
+[23:21:23]   Failed.
+[23:21:23]  Loading plugin: pawncmd
+[23:21:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: pawnregex
+[23:21:23] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: profiler
+[23:21:23]   Profiler plugin 2.15.3
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: sscanf
+[23:21:23] 
+
+[23:21:23]  ===============================
+
+[23:21:23]       sscanf plugin loaded.     
+
+[23:21:23]          Version:  2.8.3        
+
+[23:21:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:21:23]  ===============================
+
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: streamer
+[23:21:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:21:23]   Loaded.
+[23:21:23]  Loading plugin: TOTP
+[23:21:23] TOTP plugin v1.0.1 by Games loaded.
+[23:21:23]   Loaded.
+[23:21:23]  Loaded 7 plugins.
+
+[23:21:23] 
+[23:21:23] Filterscripts
+[23:21:23] ---------------
+[23:21:23]   Loaded 0 filterscripts.
+
+[23:21:23]  
+[23:21:23] --------------------------------------
+[23:21:23]  Античит Nex-AC загружен!
+[23:21:23]  Версия античита: 1.9.43
+[23:21:23]  Автор: Nexius
+[23:21:23] --------------------------------------
+
+[23:21:23] Подключение к базе данных выполнено успешно!
+[23:21:23] [SELLHOUSE] ID: 223 , TIME: 19:07:42, MS 68862323
+[23:21:23] LoadHouses
+[23:21:23] Началась загрузка Аллеи Славы
+[23:21:23] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[23:21:23] Закончилась загрузка Аллеи Славы
+[23:21:23] Все ворота созданы
+[23:21:23] Все позиции созданы
+[23:21:23] Все банкоматы созданы
+[23:21:23] -------------------
+[23:21:23] Все авто для аренды созданы
+[23:21:23] Все бизнесы созданы
+[23:21:27] [LOAD] Create Map
+[23:21:27]                     ______________________________
+
+[23:21:27]                     | Загружено домов:      0618 |
+[23:21:27]                     | Загружено бизнесов:   0078 |
+[23:21:27]                     | Созданно транспорта:  0282 |
+[23:21:27]                     | Созданно объектов:    6522 |
+[23:21:27]                     ______________________________
+[23:21:27] Number of vehicle models: 54
+[23:21:27] Filliang loaded
+[23:21:27] LoadMayor - SUCCECC
+[23:21:27] Products in the database is not found!
+[23:21:27] LoadProduct' - All 0 load
+[23:21:27] Территории банд загружены!
+[23:21:27] Load Mafia - TRUE
+[23:21:27] 'LoadOther' Load Time 0 m.s
+[23:21:57] [connection] 192.162.111.206:62872 requests connection cookie.
+[23:21:58] [connection] incoming connection: 192.162.111.206:62872 id: 0
+[23:21:58] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[23:22:18] Регистрация завершена1
+[23:22:18] Регистрация завершена2
+[23:22:18] Регистрация завершена3
+[23:22:24] [part] Dlinniy_Piton has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:51] filterscripts = ""  (string)
+[23:23:51] 
+[23:23:51] Server Plugins
+[23:23:51] --------------
+[23:23:51]  Loading plugin: mysql
+[23:23:51]  >> plugin.mysql: R39-6 successfully loaded.
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: mysql_static
+[23:23:51]   Failed.
+[23:23:51]  Loading plugin: pawncmd
+[23:23:51] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: pawnregex
+[23:23:51] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: profiler
+[23:23:51]   Profiler plugin 2.15.3
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: sscanf
+[23:23:51] 
+
+[23:23:51]  ===============================
+
+[23:23:51]       sscanf plugin loaded.     
+
+[23:23:51]          Version:  2.8.3        
+
+[23:23:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:23:51]  ===============================
+
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: streamer
+[23:23:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:23:51]   Loaded.
+[23:23:51]  Loading plugin: TOTP
+[23:23:51] TOTP plugin v1.0.1 by Games loaded.
+[23:23:51]   Loaded.
+[23:23:51]  Loaded 7 plugins.
+
+[23:23:51] 
+[23:23:51] Filterscripts
+[23:23:51] ---------------
+[23:23:51]   Loaded 0 filterscripts.
+
+[23:23:51]  
+[23:23:51] --------------------------------------
+[23:23:51]  Античит Nex-AC загружен!
+[23:23:51]  Версия античита: 1.9.43
+[23:23:51]  Автор: Nexius
+[23:23:51] --------------------------------------
+
+[23:23:51] Подключение к базе данных выполнено успешно!
+[23:23:51] [SELLHOUSE] ID: 223 , TIME: 19:49:14, MS 71354392
+[23:23:51] LoadHouses
+[23:23:51] Началась загрузка Аллеи Славы
+[23:23:51] UPDATE `accounts` SET `PointsMoney` = '8239231' WHERE `NickName` = 'Nate_First' AND `Card` = 1
+[23:23:51] Закончилась загрузка Аллеи Славы
+[23:23:51] Все ворота созданы
+[23:23:51] Все позиции созданы
+[23:23:51] Все банкоматы созданы
+[23:23:51] -------------------
+[23:23:51] Все авто для аренды созданы
+[23:23:51] Все бизнесы созданы
+[23:23:55] [LOAD] Create Map
+[23:23:55]                     ______________________________
+
+[23:23:55]                     | Загружено домов:      0618 |
+[23:23:55]                     | Загружено бизнесов:   0078 |
+[23:23:55]                     | Созданно транспорта:  0282 |
+[23:23:55]                     | Созданно объектов:    6522 |
+[23:23:55]                     ______________________________
+[23:23:55] Number of vehicle models: 54
+[23:23:55] Filliang loaded
+[23:23:55] LoadMayor - SUCCECC
+[23:23:55] Products in the database is not found!
+[23:23:55] LoadProduct' - All 0 load
+[23:23:55] Территории банд загружены!
+[23:23:55] Load Mafia - TRUE
+[23:23:55] 'LoadOther' Load Time 0 m.s
+[23:24:45] [connection] 192.162.111.206:25587 requests connection cookie.
+[23:24:46] [connection] incoming connection: 192.162.111.206:25587 id: 0
+[23:24:47] [join] Dlinniy_Piton has joined the server (0:192.162.111.206)
+[23:25:13] Регистрация завершена1
+[23:25:13] Регистрация завершена2
+[23:25:13] Регистрация завершена3
+[23:25:13] Регистрация завершена4
+[23:25:13] Регистрация завершена5
+[23:25:13] Регистрация завершена6
+[23:27:10] [part] Dlinniy_Piton has left the server (0:1)
+[23:28:40] [connection] 192.162.111.206:47526 requests connection cookie.
+[23:28:41] [connection] incoming connection: 192.162.111.206:47526 id: 0
+[23:28:42] [join] Pablo_Escobar has joined the server (0:192.162.111.206)
+[23:30:07] [part] Jim_Anderson has left the server (0:1)
+[23:31:37] [connection] 192.162.111.206:23273 requests connection cookie.
+[23:31:38] [connection] incoming connection: 192.162.111.206:23273 id: 0
+[23:31:38] [join] Jim_Anderson has joined the server (0:192.162.111.206)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:54:43] filterscripts = ""  (string)
+[22:54:43] 
+[22:54:43] Server Plugins
+[22:54:43] --------------
+[22:54:43]  Loading plugin: mysql
+[22:54:43]  >> plugin.mysql: R39-6 successfully loaded.
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: mysql_static
+[22:54:43]   Failed.
+[22:54:43]  Loading plugin: pawncmd
+[22:54:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: pawnregex
+[22:54:43] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: profiler
+[22:54:43]   Profiler plugin 2.15.3
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: sscanf
+[22:54:43] 
+
+[22:54:43]  ===============================
+
+[22:54:43]       sscanf plugin loaded.     
+
+[22:54:43]          Version:  2.8.3        
+
+[22:54:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:54:43]  ===============================
+
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: streamer
+[22:54:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:54:43]   Loaded.
+[22:54:43]  Loading plugin: TOTP
+[22:54:43] TOTP plugin v1.0.1 by Games loaded.
+[22:54:43]   Loaded.
+[22:54:43]  Loaded 7 plugins.
+
+[22:54:43] 
+[22:54:43] Filterscripts
+[22:54:43] ---------------
+[22:54:43]   Loaded 0 filterscripts.
+
+[22:54:43]  
+[22:54:43] --------------------------------------
+[22:54:43]  Античит Nex-AC загружен!
+[22:54:43]  Версия античита: 1.9.43
+[22:54:43]  Автор: Nexius
+[22:54:43] --------------------------------------
+
+[22:54:43] Подключение к базе данных не удалось!
+[22:54:43] Number of vehicle models: 0
+[22:54:45] 	Все аккаунты сохранены
+[22:54:45] 	Все дома сохранены
+[22:54:45] 	Все бизнесы сохранены
+[22:54:45] 	mxmini [new] сохранен
+[22:54:45]  
+[22:54:45] --------------------------------------
+[22:54:45]  Статистика античита Nex-AC
+[22:54:45]  Обнаружено и предотвращено:
+[22:54:45]   0 попыток читерства
+[22:54:45]   0 попыток взлома
+[22:54:45]   0 попыток краша
+[22:54:45]   0 попыток флуда
+[22:54:45]   0 атак
+[22:54:45]  Всего обнаружено и наказано 0 читеров
+[22:54:45] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:55:06] filterscripts = ""  (string)
+[22:55:06] 
+[22:55:06] Server Plugins
+[22:55:06] --------------
+[22:55:06]  Loading plugin: mysql
+[22:55:06]  >> plugin.mysql: R39-6 successfully loaded.
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: mysql_static
+[22:55:06]   Failed.
+[22:55:06]  Loading plugin: pawncmd
+[22:55:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: pawnregex
+[22:55:06] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: profiler
+[22:55:06]   Profiler plugin 2.15.3
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: sscanf
+[22:55:06] 
+
+[22:55:06]  ===============================
+
+[22:55:06]       sscanf plugin loaded.     
+
+[22:55:06]          Version:  2.8.3        
+
+[22:55:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:55:06]  ===============================
+
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: streamer
+[22:55:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:55:06]   Loaded.
+[22:55:06]  Loading plugin: TOTP
+[22:55:06] TOTP plugin v1.0.1 by Games loaded.
+[22:55:06]   Loaded.
+[22:55:06]  Loaded 7 plugins.
+
+[22:55:06] 
+[22:55:06] Filterscripts
+[22:55:06] ---------------
+[22:55:06]   Loaded 0 filterscripts.
+
+[22:55:06]  
+[22:55:06] --------------------------------------
+[22:55:06]  Античит Nex-AC загружен!
+[22:55:06]  Версия античита: 1.9.43
+[22:55:06]  Автор: Nexius
+[22:55:06] --------------------------------------
+
+[22:55:11] Подключение к базе данных не удалось!
+[22:55:11] Number of vehicle models: 0
+[22:55:13] 	Все аккаунты сохранены
+[22:55:13] 	Все дома сохранены
+[22:55:13] 	Все бизнесы сохранены
+[22:55:13] 	mxmini [new] сохранен
+[22:55:13]  
+[22:55:13] --------------------------------------
+[22:55:13]  Статистика античита Nex-AC
+[22:55:13]  Обнаружено и предотвращено:
+[22:55:13]   0 попыток читерства
+[22:55:13]   0 попыток взлома
+[22:55:13]   0 попыток краша
+[22:55:13]   0 попыток флуда
+[22:55:13]   0 атак
+[22:55:13]  Всего обнаружено и наказано 0 читеров
+[22:55:13] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:55:16] filterscripts = ""  (string)
+[22:55:16] 
+[22:55:16] Server Plugins
+[22:55:16] --------------
+[22:55:16]  Loading plugin: mysql
+[22:55:16]  >> plugin.mysql: R39-6 successfully loaded.
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: mysql_static
+[22:55:16]   Failed.
+[22:55:16]  Loading plugin: pawncmd
+[22:55:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: pawnregex
+[22:55:16] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: profiler
+[22:55:16]   Profiler plugin 2.15.3
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: sscanf
+[22:55:16] 
+
+[22:55:16]  ===============================
+
+[22:55:16]       sscanf plugin loaded.     
+
+[22:55:16]          Version:  2.8.3        
+
+[22:55:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:55:16]  ===============================
+
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: streamer
+[22:55:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:55:16]   Loaded.
+[22:55:16]  Loading plugin: TOTP
+[22:55:16] TOTP plugin v1.0.1 by Games loaded.
+[22:55:16]   Loaded.
+[22:55:16]  Loaded 7 plugins.
+
+[22:55:16] 
+[22:55:16] Filterscripts
+[22:55:16] ---------------
+[22:55:16]   Loaded 0 filterscripts.
+
+[22:55:16]  
+[22:55:16] --------------------------------------
+[22:55:16]  Античит Nex-AC загружен!
+[22:55:16]  Версия античита: 1.9.43
+[22:55:16]  Автор: Nexius
+[22:55:16] --------------------------------------
+
+[22:55:16] Подключение к базе данных не удалось!
+[22:55:16] Number of vehicle models: 0
+[22:55:18] 	Все аккаунты сохранены
+[22:55:18] 	Все дома сохранены
+[22:55:18] 	Все бизнесы сохранены
+[22:55:18] 	mxmini [new] сохранен
+[22:55:18]  
+[22:55:18] --------------------------------------
+[22:55:18]  Статистика античита Nex-AC
+[22:55:18]  Обнаружено и предотвращено:
+[22:55:18]   0 попыток читерства
+[22:55:18]   0 попыток взлома
+[22:55:18]   0 попыток краша
+[22:55:18]   0 попыток флуда
+[22:55:18]   0 атак
+[22:55:18]  Всего обнаружено и наказано 0 читеров
+[22:55:18] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:55:34] filterscripts = ""  (string)
+[22:55:34] 
+[22:55:34] Server Plugins
+[22:55:34] --------------
+[22:55:34]  Loading plugin: mysql
+[22:55:34]  >> plugin.mysql: R39-6 successfully loaded.
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: mysql_static
+[22:55:34]   Failed.
+[22:55:34]  Loading plugin: pawncmd
+[22:55:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: pawnregex
+[22:55:34] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: profiler
+[22:55:34]   Profiler plugin 2.15.3
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: sscanf
+[22:55:34] 
+
+[22:55:34]  ===============================
+
+[22:55:34]       sscanf plugin loaded.     
+
+[22:55:34]          Version:  2.8.3        
+
+[22:55:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:55:34]  ===============================
+
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: streamer
+[22:55:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:55:34]   Loaded.
+[22:55:34]  Loading plugin: TOTP
+[22:55:34] TOTP plugin v1.0.1 by Games loaded.
+[22:55:34]   Loaded.
+[22:55:34]  Loaded 7 plugins.
+
+[22:55:34] 
+[22:55:34] Filterscripts
+[22:55:34] ---------------
+[22:55:34]   Loaded 0 filterscripts.
+
+[22:55:34]  
+[22:55:34] --------------------------------------
+[22:55:34]  Античит Nex-AC загружен!
+[22:55:34]  Версия античита: 1.9.43
+[22:55:34]  Автор: Nexius
+[22:55:34] --------------------------------------
+
+[22:55:34] Подключение к базе данных не удалось!
+[22:55:34] Number of vehicle models: 0
+[22:55:36] 	Все аккаунты сохранены
+[22:55:36] 	Все дома сохранены
+[22:55:36] 	Все бизнесы сохранены
+[22:55:36] 	mxmini [new] сохранен
+[22:55:36]  
+[22:55:36] --------------------------------------
+[22:55:36]  Статистика античита Nex-AC
+[22:55:36]  Обнаружено и предотвращено:
+[22:55:36]   0 попыток читерства
+[22:55:36]   0 попыток взлома
+[22:55:36]   0 попыток краша
+[22:55:36]   0 попыток флуда
+[22:55:36]   0 атак
+[22:55:36]  Всего обнаружено и наказано 0 читеров
+[22:55:36] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:56:05] filterscripts = ""  (string)
+[22:56:05] 
+[22:56:05] Server Plugins
+[22:56:05] --------------
+[22:56:05]  Loading plugin: mysql
+[22:56:05]  >> plugin.mysql: R39-6 successfully loaded.
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: mysql_static
+[22:56:05]   Failed.
+[22:56:05]  Loading plugin: pawncmd
+[22:56:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: pawnregex
+[22:56:05] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: profiler
+[22:56:05]   Profiler plugin 2.15.3
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: sscanf
+[22:56:05] 
+
+[22:56:05]  ===============================
+
+[22:56:05]       sscanf plugin loaded.     
+
+[22:56:05]          Version:  2.8.3        
+
+[22:56:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:56:05]  ===============================
+
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: streamer
+[22:56:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:56:05]   Loaded.
+[22:56:05]  Loading plugin: TOTP
+[22:56:05] TOTP plugin v1.0.1 by Games loaded.
+[22:56:05]   Loaded.
+[22:56:05]  Loaded 7 plugins.
+
+[22:56:05] 
+[22:56:05] Filterscripts
+[22:56:05] ---------------
+[22:56:05]   Loaded 0 filterscripts.
+
+[22:56:05]  
+[22:56:05] --------------------------------------
+[22:56:05]  Античит Nex-AC загружен!
+[22:56:05]  Версия античита: 1.9.43
+[22:56:05]  Автор: Nexius
+[22:56:05] --------------------------------------
+
+[22:56:05] Подключение к базе данных не удалось!
+[22:56:05] Number of vehicle models: 0
+[22:56:07] 	Все аккаунты сохранены
+[22:56:07] 	Все дома сохранены
+[22:56:07] 	Все бизнесы сохранены
+[22:56:07] 	mxmini [new] сохранен
+[22:56:07]  
+[22:56:07] --------------------------------------
+[22:56:07]  Статистика античита Nex-AC
+[22:56:07]  Обнаружено и предотвращено:
+[22:56:07]   0 попыток читерства
+[22:56:07]   0 попыток взлома
+[22:56:07]   0 попыток краша
+[22:56:07]   0 попыток флуда
+[22:56:07]   0 атак
+[22:56:07]  Всего обнаружено и наказано 0 читеров
+[22:56:07] --------------------------------------
+
+[22:56:19]  
+[22:56:19] --------------------------------------
+[22:56:19]  Античит Nex-AC загружен!
+[22:56:19]  Версия античита: 1.9.43
+[22:56:19]  Автор: Nexius
+[22:56:19] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:42] filterscripts = ""  (string)
+[22:57:42] 
+[22:57:42] Server Plugins
+[22:57:42] --------------
+[22:57:42]  Loading plugin: mysql
+[22:57:42]  >> plugin.mysql: R39-6 successfully loaded.
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: mysql_static
+[22:57:42]   Failed.
+[22:57:42]  Loading plugin: pawncmd
+[22:57:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: pawnregex
+[22:57:42] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: profiler
+[22:57:42]   Profiler plugin 2.15.3
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: sscanf
+[22:57:42] 
+
+[22:57:42]  ===============================
+
+[22:57:42]       sscanf plugin loaded.     
+
+[22:57:42]          Version:  2.8.3        
+
+[22:57:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:57:42]  ===============================
+
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: streamer
+[22:57:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:57:42]   Loaded.
+[22:57:42]  Loading plugin: TOTP
+[22:57:42] TOTP plugin v1.0.1 by Games loaded.
+[22:57:42]   Loaded.
+[22:57:42]  Loaded 7 plugins.
+
+[22:57:42] 
+[22:57:42] Filterscripts
+[22:57:42] ---------------
+[22:57:42]   Loaded 0 filterscripts.
+
+[22:57:42]  
+[22:57:42] --------------------------------------
+[22:57:42]  Античит Nex-AC загружен!
+[22:57:42]  Версия античита: 1.9.43
+[22:57:42]  Автор: Nexius
+[22:57:42] --------------------------------------
+
+[22:57:42] Подключение к базе данных не удалось!
+[22:57:42] Number of vehicle models: 0
+[22:57:45] 	Все аккаунты сохранены
+[22:57:45] 	Все дома сохранены
+[22:57:45] 	Все бизнесы сохранены
+[22:57:45] 	mxmini [new] сохранен
+[22:57:45]  
+[22:57:45] --------------------------------------
+[22:57:45]  Статистика античита Nex-AC
+[22:57:45]  Обнаружено и предотвращено:
+[22:57:45]   0 попыток читерства
+[22:57:45]   0 попыток взлома
+[22:57:45]   0 попыток краша
+[22:57:45]   0 попыток флуда
+[22:57:45]   0 атак
+[22:57:45]  Всего обнаружено и наказано 0 читеров
+[22:57:45] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:48] filterscripts = ""  (string)
+[22:57:48] 
+[22:57:48] Server Plugins
+[22:57:48] --------------
+[22:57:48]  Loading plugin: mysql
+[22:57:48]  >> plugin.mysql: R39-6 successfully loaded.
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: mysql_static
+[22:57:48]   Failed.
+[22:57:48]  Loading plugin: pawncmd
+[22:57:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: pawnregex
+[22:57:48] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: profiler
+[22:57:48]   Profiler plugin 2.15.3
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: sscanf
+[22:57:48] 
+
+[22:57:48]  ===============================
+
+[22:57:48]       sscanf plugin loaded.     
+
+[22:57:48]          Version:  2.8.3        
+
+[22:57:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:57:48]  ===============================
+
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: streamer
+[22:57:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:57:48]   Loaded.
+[22:57:48]  Loading plugin: TOTP
+[22:57:48] TOTP plugin v1.0.1 by Games loaded.
+[22:57:48]   Loaded.
+[22:57:48]  Loaded 7 plugins.
+
+[22:57:48] 
+[22:57:48] Filterscripts
+[22:57:48] ---------------
+[22:57:48]   Loaded 0 filterscripts.
+
+[22:57:48]  
+[22:57:48] --------------------------------------
+[22:57:48]  Античит Nex-AC загружен!
+[22:57:48]  Версия античита: 1.9.43
+[22:57:48]  Автор: Nexius
+[22:57:48] --------------------------------------
+
+[22:57:48] Подключение к базе данных не удалось!
+[22:57:48] Number of vehicle models: 0
+[22:57:50] 	Все аккаунты сохранены
+[22:57:50] 	Все дома сохранены
+[22:57:50] 	Все бизнесы сохранены
+[22:57:50] 	mxmini [new] сохранен
+[22:57:50]  
+[22:57:50] --------------------------------------
+[22:57:50]  Статистика античита Nex-AC
+[22:57:50]  Обнаружено и предотвращено:
+[22:57:50]   0 попыток читерства
+[22:57:50]   0 попыток взлома
+[22:57:50]   0 попыток краша
+[22:57:50]   0 попыток флуда
+[22:57:50]   0 атак
+[22:57:50]  Всего обнаружено и наказано 0 читеров
+[22:57:50] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:58:37] filterscripts = ""  (string)
+[22:58:37] 
+[22:58:37] Server Plugins
+[22:58:37] --------------
+[22:58:37]  Loading plugin: mysql
+[22:58:37]  >> plugin.mysql: R39-6 successfully loaded.
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: mysql_static
+[22:58:37]   Failed.
+[22:58:37]  Loading plugin: pawncmd
+[22:58:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: pawnregex
+[22:58:37] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: profiler
+[22:58:37]   Profiler plugin 2.15.3
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: sscanf
+[22:58:37] 
+
+[22:58:37]  ===============================
+
+[22:58:37]       sscanf plugin loaded.     
+
+[22:58:37]          Version:  2.8.3        
+
+[22:58:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:58:37]  ===============================
+
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: streamer
+[22:58:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:58:37]   Loaded.
+[22:58:37]  Loading plugin: TOTP
+[22:58:37] TOTP plugin v1.0.1 by Games loaded.
+[22:58:37]   Loaded.
+[22:58:37]  Loaded 7 plugins.
+
+[22:58:37] 
+[22:58:37] Filterscripts
+[22:58:37] ---------------
+[22:58:37]   Loaded 0 filterscripts.
+
+[22:58:37]  
+[22:58:37] --------------------------------------
+[22:58:37]  Античит Nex-AC загружен!
+[22:58:37]  Версия античита: 1.9.43
+[22:58:37]  Автор: Nexius
+[22:58:37] --------------------------------------
+
+[22:58:37] Подключение к базе данных не удалось!
+[22:58:37] Number of vehicle models: 0
+[22:58:39] 	Все аккаунты сохранены
+[22:58:39] 	Все дома сохранены
+[22:58:39] 	Все бизнесы сохранены
+[22:58:39] 	mxmini [new] сохранен
+[22:58:39]  
+[22:58:39] --------------------------------------
+[22:58:39]  Статистика античита Nex-AC
+[22:58:39]  Обнаружено и предотвращено:
+[22:58:39]   0 попыток читерства
+[22:58:39]   0 попыток взлома
+[22:58:39]   0 попыток краша
+[22:58:39]   0 попыток флуда
+[22:58:39]   0 атак
+[22:58:39]  Всего обнаружено и наказано 0 читеров
+[22:58:39] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:58:55] filterscripts = ""  (string)
+[22:58:55] 
+[22:58:55] Server Plugins
+[22:58:55] --------------
+[22:58:55]  Loading plugin: mysql
+[22:58:55]  >> plugin.mysql: R39-6 successfully loaded.
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: mysql_static
+[22:58:55]   Failed.
+[22:58:55]  Loading plugin: pawncmd
+[22:58:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: pawnregex
+[22:58:55] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: profiler
+[22:58:55]   Profiler plugin 2.15.3
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: sscanf
+[22:58:55] 
+
+[22:58:55]  ===============================
+
+[22:58:55]       sscanf plugin loaded.     
+
+[22:58:55]          Version:  2.8.3        
+
+[22:58:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:58:55]  ===============================
+
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: streamer
+[22:58:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:58:55]   Loaded.
+[22:58:55]  Loading plugin: TOTP
+[22:58:55] TOTP plugin v1.0.1 by Games loaded.
+[22:58:55]   Loaded.
+[22:58:55]  Loaded 7 plugins.
+
+[22:58:55] 
+[22:58:55] Filterscripts
+[22:58:55] ---------------
+[22:58:55]   Loaded 0 filterscripts.
+
+[22:58:55]  
+[22:58:55] --------------------------------------
+[22:58:55]  Античит Nex-AC загружен!
+[22:58:55]  Версия античита: 1.9.43
+[22:58:55]  Автор: Nexius
+[22:58:55] --------------------------------------
+
+[22:58:55] Подключение к базе данных не удалось!
+[22:58:55] Number of vehicle models: 0
+[22:58:57] 	Все аккаунты сохранены
+[22:58:57] 	Все дома сохранены
+[22:58:57] 	Все бизнесы сохранены
+[22:58:57] 	mxmini [new] сохранен
+[22:58:57]  
+[22:58:57] --------------------------------------
+[22:58:57]  Статистика античита Nex-AC
+[22:58:57]  Обнаружено и предотвращено:
+[22:58:57]   0 попыток читерства
+[22:58:57]   0 попыток взлома
+[22:58:57]   0 попыток краша
+[22:58:57]   0 попыток флуда
+[22:58:57]   0 атак
+[22:58:57]  Всего обнаружено и наказано 0 читеров
+[22:58:57] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:59:14] filterscripts = ""  (string)
+[22:59:14] 
+[22:59:14] Server Plugins
+[22:59:14] --------------
+[22:59:14]  Loading plugin: mysql
+[22:59:14]  >> plugin.mysql: R39-6 successfully loaded.
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: mysql_static
+[22:59:14]   Failed.
+[22:59:14]  Loading plugin: pawncmd
+[22:59:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: pawnregex
+[22:59:14] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: profiler
+[22:59:14]   Profiler plugin 2.15.3
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: sscanf
+[22:59:14] 
+
+[22:59:14]  ===============================
+
+[22:59:14]       sscanf plugin loaded.     
+
+[22:59:14]          Version:  2.8.3        
+
+[22:59:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:59:14]  ===============================
+
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: streamer
+[22:59:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:59:14]   Loaded.
+[22:59:14]  Loading plugin: TOTP
+[22:59:14] TOTP plugin v1.0.1 by Games loaded.
+[22:59:14]   Loaded.
+[22:59:14]  Loaded 7 plugins.
+
+[22:59:14] 
+[22:59:14] Filterscripts
+[22:59:14] ---------------
+[22:59:14]   Loaded 0 filterscripts.
+
+[22:59:14]  
+[22:59:14] --------------------------------------
+[22:59:14]  Античит Nex-AC загружен!
+[22:59:14]  Версия античита: 1.9.43
+[22:59:14]  Автор: Nexius
+[22:59:14] --------------------------------------
+
+[22:59:14] Подключение к базе данных не удалось!
+[22:59:14] Number of vehicle models: 0
+[22:59:16] 	Все аккаунты сохранены
+[22:59:16] 	Все дома сохранены
+[22:59:16] 	Все бизнесы сохранены
+[22:59:16] 	mxmini [new] сохранен
+[22:59:16]  
+[22:59:16] --------------------------------------
+[22:59:16]  Статистика античита Nex-AC
+[22:59:16]  Обнаружено и предотвращено:
+[22:59:16]   0 попыток читерства
+[22:59:16]   0 попыток взлома
+[22:59:16]   0 попыток краша
+[22:59:16]   0 попыток флуда
+[22:59:16]   0 атак
+[22:59:16]  Всего обнаружено и наказано 0 читеров
+[22:59:16] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:13] filterscripts = ""  (string)
+[23:15:13] 
+[23:15:13] Server Plugins
+[23:15:13] --------------
+[23:15:13]  Loading plugin: mysql
+[23:15:13]  >> plugin.mysql: R39-6 successfully loaded.
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: mysql_static
+[23:15:13]   Failed.
+[23:15:13]  Loading plugin: pawncmd
+[23:15:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: pawnregex
+[23:15:13] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: profiler
+[23:15:13]   Profiler plugin 2.15.3
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: sscanf
+[23:15:13] 
+
+[23:15:13]  ===============================
+
+[23:15:13]       sscanf plugin loaded.     
+
+[23:15:13]          Version:  2.8.3        
+
+[23:15:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:15:13]  ===============================
+
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: streamer
+[23:15:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:15:13]   Loaded.
+[23:15:13]  Loading plugin: TOTP
+[23:15:13] TOTP plugin v1.0.1 by Games loaded.
+[23:15:13]   Loaded.
+[23:15:13]  Loaded 7 plugins.
+
+[23:15:13] 
+[23:15:13] Filterscripts
+[23:15:13] ---------------
+[23:15:13]   Loaded 0 filterscripts.
+
+[23:15:13]  
+[23:15:13] --------------------------------------
+[23:15:13]  Античит Nex-AC загружен!
+[23:15:13]  Версия античита: 1.9.43
+[23:15:13]  Автор: Nexius
+[23:15:13] --------------------------------------
+
+[23:15:15] Подключение к базе данных не удалось!
+[23:15:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:56] filterscripts = ""  (string)
+[23:15:56] 
+[23:15:56] Server Plugins
+[23:15:56] --------------
+[23:15:56]  Loading plugin: mysql
+[23:15:56]  >> plugin.mysql: R39-6 successfully loaded.
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: mysql_static
+[23:15:56]   Failed.
+[23:15:56]  Loading plugin: pawncmd
+[23:15:56] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: pawnregex
+[23:15:56] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: profiler
+[23:15:56]   Profiler plugin 2.15.3
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: sscanf
+[23:15:56] 
+
+[23:15:56]  ===============================
+
+[23:15:56]       sscanf plugin loaded.     
+
+[23:15:56]          Version:  2.8.3        
+
+[23:15:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:15:56]  ===============================
+
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: streamer
+[23:15:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:15:56]   Loaded.
+[23:15:56]  Loading plugin: TOTP
+[23:15:56] TOTP plugin v1.0.1 by Games loaded.
+[23:15:56]   Loaded.
+[23:15:56]  Loaded 7 plugins.
+
+[23:15:56] 
+[23:15:56] Filterscripts
+[23:15:56] ---------------
+[23:15:56]   Loaded 0 filterscripts.
+
+[23:15:56]  
+[23:15:56] --------------------------------------
+[23:15:56]  Античит Nex-AC загружен!
+[23:15:56]  Версия античита: 1.9.43
+[23:15:56]  Автор: Nexius
+[23:15:56] --------------------------------------
+
+[23:15:58] Подключение к базе данных не удалось!
+[23:15:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:08] filterscripts = ""  (string)
+[23:22:08] 
+[23:22:08] Server Plugins
+[23:22:08] --------------
+[23:22:08]  Loading plugin: mysql
+[23:22:08]  >> plugin.mysql: R39-6 successfully loaded.
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: mysql_static
+[23:22:08]   Failed.
+[23:22:08]  Loading plugin: pawncmd
+[23:22:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: pawnregex
+[23:22:08] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: profiler
+[23:22:08]   Profiler plugin 2.15.3
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: sscanf
+[23:22:08] 
+
+[23:22:08]  ===============================
+
+[23:22:08]       sscanf plugin loaded.     
+
+[23:22:08]          Version:  2.8.3        
+
+[23:22:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:22:08]  ===============================
+
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: streamer
+[23:22:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:22:08]   Loaded.
+[23:22:08]  Loading plugin: TOTP
+[23:22:08] TOTP plugin v1.0.1 by Games loaded.
+[23:22:08]   Loaded.
+[23:22:08]  Loaded 7 plugins.
+
+[23:22:08] 
+[23:22:08] Filterscripts
+[23:22:08] ---------------
+[23:22:08]   Loaded 0 filterscripts.
+
+[23:22:08]  
+[23:22:08] --------------------------------------
+[23:22:08]  Античит Nex-AC загружен!
+[23:22:08]  Версия античита: 1.9.43
+[23:22:08]  Автор: Nexius
+[23:22:08] --------------------------------------
+
+[23:22:08] Подключение к базе данных выполнено успешно!
+[23:22:08] LoadHouses
+[23:22:08] Началась загрузка Аллеи Славы
+[23:22:08] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[23:22:08] UPDATE `accounts` SET `PointsMoney` = '48102608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[23:22:08] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[23:22:08] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[23:22:08] Закончилась загрузка Аллеи Славы
+[23:22:08] Все ворота созданы
+[23:22:08] Все позиции созданы
+[23:22:08] Все банкоматы созданы
+[23:22:08] -------------------
+[23:22:09] Все авто для аренды созданы
+[23:22:09] Все бизнесы созданы
+[23:22:10] [LOAD] Create Map
+[23:22:10]                     ______________________________
+
+[23:22:10]                     | Загружено домов:      0618 |
+[23:22:10]                     | Загружено бизнесов:   0078 |
+[23:22:10]                     | Созданно транспорта:  0280 |
+[23:22:10]                     | Созданно объектов:    6515 |
+[23:22:10]                     ______________________________
+[23:22:10] Number of vehicle models: 54
+[23:22:10] Filliang loaded
+[23:22:10] LoadMayor - SUCCECC
+[23:22:10] Products in the database is not found!
+[23:22:10] LoadProduct' - All 0 load
+[23:22:10] Территории банд загружены!
+[23:22:10] Load Mafia - TRUE
+[23:22:10] Семьи не найдены!
+[23:22:10] 'LoadOther' Load Time 0 m.s
+[23:29:44] [connection] 2.135.74.27:57502 requests connection cookie.
+[23:29:45] [connection] incoming connection: 2.135.74.27:57502 id: 0
+[23:29:46] [join] Nate_Anderson has joined the server (0:2.135.74.27)
+[23:30:06] ----------------------------------------------
+[23:30:06] Aвторизовался: Nate_Anderson [RegIP: 95.59.87.111] [IP: 2.135.74.27]
+[23:30:06] ----------------------------------------------
+[23:34:40] ----------------------------------------------
+[23:34:40] Вышел из игры Nate_Anderson
+[23:34:40] ----------------------------------------------
+[23:34:40] [part] Nate_Anderson has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:27] filterscripts = ""  (string)
+[23:51:27] 
+[23:51:27] Server Plugins
+[23:51:27] --------------
+[23:51:27]  Loading plugin: mysql
+[23:51:27]  >> plugin.mysql: R39-6 successfully loaded.
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: mysql_static
+[23:51:27]   Failed.
+[23:51:27]  Loading plugin: pawncmd
+[23:51:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: pawnregex
+[23:51:27] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: profiler
+[23:51:27]   Profiler plugin 2.15.3
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: sscanf
+[23:51:27] 
+
+[23:51:27]  ===============================
+
+[23:51:27]       sscanf plugin loaded.     
+
+[23:51:27]          Version:  2.8.3        
+
+[23:51:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:51:27]  ===============================
+
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: streamer
+[23:51:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:51:27]   Loaded.
+[23:51:27]  Loading plugin: TOTP
+[23:51:27] TOTP plugin v1.0.1 by Games loaded.
+[23:51:27]   Loaded.
+[23:51:27]  Loaded 7 plugins.
+
+[23:51:27] 
+[23:51:27] Filterscripts
+[23:51:27] ---------------
+[23:51:27]   Loaded 0 filterscripts.
+
+[23:51:27]  
+[23:51:27] --------------------------------------
+[23:51:27]  Античит Nex-AC загружен!
+[23:51:27]  Версия античита: 1.9.43
+[23:51:27]  Автор: Nexius
+[23:51:27] --------------------------------------
+
+[23:51:27] Подключение к базе данных выполнено успешно!
+[23:51:27] LoadHouses
+[23:51:27] Началась загрузка Аллеи Славы
+[23:51:27] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[23:51:27] UPDATE `accounts` SET `PointsMoney` = '48100608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[23:51:27] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[23:51:27] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[23:51:27] Закончилась загрузка Аллеи Славы
+[23:51:27] Все ворота созданы
+[23:51:27] Все позиции созданы
+[23:51:27] Все банкоматы созданы
+[23:51:27] -------------------
+[23:51:27] Все авто для аренды созданы
+[23:51:27] Все бизнесы созданы
+[23:51:29] [LOAD] Create Map
+[23:51:29]                     ______________________________
+
+[23:51:29]                     | Загружено домов:      0618 |
+[23:51:29]                     | Загружено бизнесов:   0078 |
+[23:51:29]                     | Созданно транспорта:  0280 |
+[23:51:29]                     | Созданно объектов:    6515 |
+[23:51:29]                     ______________________________
+[23:51:29] Number of vehicle models: 54
+[23:51:29] Filliang loaded
+[23:51:29] LoadMayor - SUCCECC
+[23:51:29] Products in the database is not found!
+[23:51:29] LoadProduct' - All 0 load
+[23:51:29] Территории банд загружены!
+[23:51:29] Load Mafia - TRUE
+[23:51:29] Семьи не найдены!
+[23:51:29] 'LoadOther' Load Time 0 m.s
+[23:52:04] [connection] 2.135.74.27:56162 requests connection cookie.
+[23:52:05] [connection] incoming connection: 2.135.74.27:56162 id: 0
+[23:52:05] [join] Nate_Anderson has joined the server (0:2.135.74.27)
+[23:52:30] ----------------------------------------------
+[23:52:30] Aвторизовался: Nate_Anderson [RegIP: 95.59.87.111] [IP: 2.135.74.27]
+[23:52:30] ----------------------------------------------
+[23:52:49] ----------------------------------------------
+[23:52:49] Вышел из игры Nate_Anderson
+[23:52:49] ----------------------------------------------
+[23:52:49] [part] Nate_Anderson has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:17] filterscripts = ""  (string)
+[00:17:17] 
+[00:17:17] Server Plugins
+[00:17:17] --------------
+[00:17:17]  Loading plugin: mysql
+[00:17:17]  >> plugin.mysql: R39-6 successfully loaded.
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: mysql_static
+[00:17:17]   Failed.
+[00:17:17]  Loading plugin: pawncmd
+[00:17:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: pawnregex
+[00:17:17] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: profiler
+[00:17:17]   Profiler plugin 2.15.3
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: sscanf
+[00:17:17] 
+
+[00:17:17]  ===============================
+
+[00:17:17]       sscanf plugin loaded.     
+
+[00:17:17]          Version:  2.8.3        
+
+[00:17:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:17:17]  ===============================
+
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: streamer
+[00:17:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:17:17]   Loaded.
+[00:17:17]  Loading plugin: TOTP
+[00:17:17] TOTP plugin v1.0.1 by Games loaded.
+[00:17:17]   Loaded.
+[00:17:17]  Loaded 7 plugins.
+
+[00:17:17] 
+[00:17:17] Filterscripts
+[00:17:17] ---------------
+[00:17:17]   Loaded 0 filterscripts.
+
+[00:17:17]  
+[00:17:17] --------------------------------------
+[00:17:17]  Античит Nex-AC загружен!
+[00:17:17]  Версия античита: 1.9.43
+[00:17:17]  Автор: Nexius
+[00:17:17] --------------------------------------
+
+[00:17:17] Подключение к базе данных выполнено успешно!
+[00:17:17] LoadHouses
+[00:17:17] Началась загрузка Аллеи Славы
+[00:17:17] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[00:17:17] UPDATE `accounts` SET `PointsMoney` = '48100608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[00:17:17] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[00:17:17] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[00:17:17] Закончилась загрузка Аллеи Славы
+[00:17:17] Все ворота созданы
+[00:17:17] Все позиции созданы
+[00:17:17] Все банкоматы созданы
+[00:17:17] -------------------
+[00:17:17] Все авто для аренды созданы
+[00:17:17] Все бизнесы созданы
+[00:17:18] [LOAD] Create Map
+[00:17:18]                     ______________________________
+
+[00:17:18]                     | Загружено домов:      0618 |
+[00:17:18]                     | Загружено бизнесов:   0078 |
+[00:17:18]                     | Созданно транспорта:  0280 |
+[00:17:18]                     | Созданно объектов:    6515 |
+[00:17:18]                     ______________________________
+[00:17:18] Number of vehicle models: 54
+[00:17:18] Filliang loaded
+[00:17:18] LoadMayor - SUCCECC
+[00:17:18] Products in the database is not found!
+[00:17:18] LoadProduct' - All 0 load
+[00:17:18] Территории банд загружены!
+[00:17:18] Load Mafia - TRUE
+[00:17:18] Семьи не найдены!
+[00:17:18] 'LoadOther' Load Time 0 m.s
+[00:27:05] [connection] 2.135.74.27:57746 requests connection cookie.
+[00:27:06] [connection] incoming connection: 2.135.74.27:57746 id: 0
+[00:27:06] [join] Nate_Anderson has joined the server (0:2.135.74.27)
+[00:27:42] ----------------------------------------------
+[00:27:42] Aвторизовался: Nate_Anderson [RegIP: 95.59.87.111] [IP: 2.135.74.27]
+[00:27:42] ----------------------------------------------
+[00:28:25] ----------------------------------------------
+[00:28:25] Вышел из игры Nate_Anderson
+[00:28:25] ----------------------------------------------
+[00:28:25] [part] Nate_Anderson has left the server (0:1)
+[00:31:44] [connection] 2.135.74.27:51021 requests connection cookie.
+[00:31:45] [connection] incoming connection: 2.135.74.27:51021 id: 0
+[00:31:45] [join] Nate_Anderson has joined the server (0:2.135.74.27)
+[00:32:05] ----------------------------------------------
+[00:32:05] Aвторизовался: Nate_Anderson [RegIP: 95.59.87.111] [IP: 2.135.74.27]
+[00:32:05] ----------------------------------------------
+[00:49:52] ----------------------------------------------
+[00:49:52] Вышел из игры Nate_Anderson
+[00:49:52] ----------------------------------------------
+[00:49:52] [part] Nate_Anderson has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:34:43] filterscripts = ""  (string)
+[07:34:43] 
+[07:34:43] Server Plugins
+[07:34:43] --------------
+[07:34:43]  Loading plugin: mysql
+[07:34:44]  >> plugin.mysql: R39-6 successfully loaded.
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: mysql_static
+[07:34:44]   Failed.
+[07:34:44]  Loading plugin: pawncmd
+[07:34:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: pawnregex
+[07:34:44] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: profiler
+[07:34:44]   Profiler plugin 2.15.3
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: sscanf
+[07:34:44] 
+
+[07:34:44]  ===============================
+
+[07:34:44]       sscanf plugin loaded.     
+
+[07:34:44]          Version:  2.8.3        
+
+[07:34:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:34:44]  ===============================
+
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: streamer
+[07:34:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:34:44]   Loaded.
+[07:34:44]  Loading plugin: TOTP
+[07:34:44] TOTP plugin v1.0.1 by Games loaded.
+[07:34:44]   Loaded.
+[07:34:44]  Loaded 7 plugins.
+
+[07:34:44] 
+[07:34:44] Filterscripts
+[07:34:44] ---------------
+[07:34:44]   Loaded 0 filterscripts.
+
+[07:34:44]  
+[07:34:44] --------------------------------------
+[07:34:44]  Античит Nex-AC загружен!
+[07:34:44]  Версия античита: 1.9.43
+[07:34:44]  Автор: Nexius
+[07:34:44] --------------------------------------
+
+[07:34:44] Подключение к базе данных выполнено успешно!
+[07:34:44] LoadHouses
+[07:34:45] Началась загрузка Аллеи Славы
+[07:34:45] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[07:34:45] UPDATE `accounts` SET `PointsMoney` = '48100608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[07:34:45] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[07:34:45] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[07:34:45] Закончилась загрузка Аллеи Славы
+[07:34:45] Все ворота созданы
+[07:34:45] Все позиции созданы
+[07:34:45] Все банкоматы созданы
+[07:34:45] -------------------
+[07:34:45] Все авто для аренды созданы
+[07:34:45] Все бизнесы созданы
+[07:34:47] [LOAD] Create Map
+[07:34:47]                     ______________________________
+
+[07:34:47]                     | Загружено домов:      0618 |
+[07:34:47]                     | Загружено бизнесов:   0078 |
+[07:34:47]                     | Созданно транспорта:  0280 |
+[07:34:47]                     | Созданно объектов:    6515 |
+[07:34:47]                     ______________________________
+[07:34:47] Number of vehicle models: 54
+[07:34:47] Filliang loaded
+[07:34:47] LoadMayor - SUCCECC
+[07:34:47] Products in the database is not found!
+[07:34:47] LoadProduct' - All 0 load
+[07:34:47] Территории банд загружены!
+[07:34:47] Load Mafia - TRUE
+[07:34:47] Семьи не найдены!
+[07:34:47] 'LoadOther' Load Time 0 m.s
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:23:41] filterscripts = ""  (string)
+[00:23:41] 
+[00:23:41] Server Plugins
+[00:23:41] --------------
+[00:23:41]  Loading plugin: mysql
+[00:23:41]  >> plugin.mysql: R39-6 successfully loaded.
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: mysql_static
+[00:23:41]   Failed.
+[00:23:41]  Loading plugin: pawncmd
+[00:23:41] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: pawnregex
+[00:23:41] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: profiler
+[00:23:41]   Profiler plugin 2.15.3
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: sscanf
+[00:23:41] 
+
+[00:23:41]  ===============================
+
+[00:23:41]       sscanf plugin loaded.     
+
+[00:23:41]          Version:  2.8.3        
+
+[00:23:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:23:41]  ===============================
+
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: streamer
+[00:23:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:23:41]   Loaded.
+[00:23:41]  Loading plugin: TOTP
+[00:23:41] TOTP plugin v1.0.1 by Games loaded.
+[00:23:41]   Loaded.
+[00:23:41]  Loaded 7 plugins.
+
+[00:23:41] 
+[00:23:41] Filterscripts
+[00:23:41] ---------------
+[00:23:41]   Loaded 0 filterscripts.
+
+[00:23:42]  
+[00:23:42] --------------------------------------
+[00:23:42]  Античит Nex-AC загружен!
+[00:23:42]  Версия античита: 1.9.43
+[00:23:42]  Автор: Nexius
+[00:23:42] --------------------------------------
+
+[00:23:42] Подключение к базе данных выполнено успешно!
+[00:23:42] LoadHouses
+[00:23:42] Началась загрузка Аллеи Славы
+[00:23:42] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[00:23:42] UPDATE `accounts` SET `PointsMoney` = '48100608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[00:23:42] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[00:23:42] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[00:23:43] Закончилась загрузка Аллеи Славы
+[00:23:43] Все ворота созданы
+[00:23:43] Все позиции созданы
+[00:23:43] Все банкоматы созданы
+[00:23:43] -------------------
+[00:23:43] Все авто для аренды созданы
+[00:23:43] Все бизнесы созданы
+[00:23:44] [LOAD] Create Map
+[00:23:44]                     ______________________________
+
+[00:23:44]                     | Загружено домов:      0618 |
+[00:23:44]                     | Загружено бизнесов:   0078 |
+[00:23:44]                     | Созданно транспорта:  0280 |
+[00:23:44]                     | Созданно объектов:    6515 |
+[00:23:44]                     ______________________________
+[00:23:44] Number of vehicle models: 54
+[00:23:44] Filliang loaded
+[00:23:44] LoadMayor - SUCCECC
+[00:23:44] Products in the database is not found!
+[00:23:44] LoadProduct' - All 0 load
+[00:23:44] Территории банд загружены!
+[00:23:44] Load Mafia - TRUE
+[00:23:44] Семьи не найдены!
+[00:23:44] 'LoadOther' Load Time 0 m.s
+[00:30:47] [connection] 2.133.155.225:62809 requests connection cookie.
+[00:30:48] [connection] incoming connection: 2.133.155.225:62809 id: 0
+[00:30:49] [join] Nate_Anderson has joined the server (0:2.133.155.225)
+[00:31:16] ----------------------------------------------
+[00:31:16] Aвторизовался: Nate_Anderson [RegIP: 95.59.87.111] [IP: 2.133.155.225]
+[00:31:16] ----------------------------------------------
+[00:43:27] [connection] 2.133.155.225:51395 requests connection cookie.
+[00:43:28] [connection] incoming connection: 2.133.155.225:51395 id: 1
+[00:43:28] [join] Tele_puzik has joined the server (1:2.133.155.225)
+[01:02:14] ----------------------------------------------
+[01:02:14] Aвторизовался: Tele_puzik [RegIP: 95.59.64.253] [IP: 2.133.155.225]
+[01:02:14] ----------------------------------------------
+[01:15:45] ----------------------------------------------
+[01:15:45] Вышел из игры Tele_puzik
+[01:15:45] ----------------------------------------------
+[01:15:45] [part] Tele_puzik has left the server (1:1)
+[01:17:05] ----------------------------------------------
+[01:17:05] Вышел из игры Nate_Anderson
+[01:17:05] ----------------------------------------------
+[01:17:05] [part] Nate_Anderson has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:57:39] filterscripts = ""  (string)
+[16:57:39] 
+[16:57:39] Server Plugins
+[16:57:39] --------------
+[16:57:39]  Loading plugin: mysql
+[16:57:39]  >> plugin.mysql: R39-6 successfully loaded.
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: mysql_static
+[16:57:39]   Failed.
+[16:57:39]  Loading plugin: pawncmd
+[16:57:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: pawnregex
+[16:57:39] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: profiler
+[16:57:39]   Profiler plugin 2.15.3
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: sscanf
+[16:57:39] 
+
+[16:57:39]  ===============================
+
+[16:57:39]       sscanf plugin loaded.     
+
+[16:57:39]          Version:  2.8.3        
+
+[16:57:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:57:39]  ===============================
+
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: streamer
+[16:57:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:57:39]   Loaded.
+[16:57:39]  Loading plugin: TOTP
+[16:57:39] TOTP plugin v1.0.1 by Games loaded.
+[16:57:39]   Loaded.
+[16:57:39]  Loaded 7 plugins.
+
+[16:57:39] 
+[16:57:39] Filterscripts
+[16:57:39] ---------------
+[16:57:39]   Loaded 0 filterscripts.
+
+[16:57:39]  
+[16:57:39] --------------------------------------
+[16:57:39]  Античит Nex-AC загружен!
+[16:57:39]  Версия античита: 1.9.43
+[16:57:39]  Автор: Nexius
+[16:57:39] --------------------------------------
+
+[16:57:39] Подключение к базе данных выполнено успешно!
+[16:57:39] LoadHouses
+[16:57:39] Началась загрузка Аллеи Славы
+[16:57:39] UPDATE `accounts` SET `PointsMoney` = '64424378' WHERE `NickName` = 'Jim_Anderson' AND `Card` = 1
+[16:57:39] UPDATE `accounts` SET `PointsMoney` = '49239608' WHERE `NickName` = 'Nate_Anderson' AND `Card` = 1
+[16:57:39] UPDATE `accounts` SET `PointsMoney` = '1000000' WHERE `NickName` = 'Sam_Mason' AND `Card` = 1
+[16:57:39] UPDATE `accounts` SET `PointsMoney` = `PointsMoney`+'0' WHERE `ID` = '38' AND `Card` = 1
+[16:57:39] Закончилась загрузка Аллеи Славы
+[16:57:39] Все ворота созданы
+[16:57:39] Все позиции созданы
+[16:57:39] Все банкоматы созданы
+[16:57:39] -------------------
+[16:57:39] Все авто для аренды созданы
+[16:57:39] Все бизнесы созданы
+[16:57:40] [LOAD] Create Map
+[16:57:40]                     ______________________________
+
+[16:57:40]                     | Загружено домов:      0618 |
+[16:57:40]                     | Загружено бизнесов:   0078 |
+[16:57:40]                     | Созданно транспорта:  0280 |
+[16:57:40]                     | Созданно объектов:    6515 |
+[16:57:40]                     ______________________________
+[16:57:40] Number of vehicle models: 54
+[16:57:40] Filliang loaded
+[16:57:40] LoadMayor - SUCCECC
+[16:57:40] Products in the database is not found!
+[16:57:40] LoadProduct' - All 0 load
+[16:57:40] Территории банд загружены!
+[16:57:40] Load Mafia - TRUE
+[16:57:40] Семьи не найдены!
+[16:57:40] 'LoadOther' Load Time 0 m.s

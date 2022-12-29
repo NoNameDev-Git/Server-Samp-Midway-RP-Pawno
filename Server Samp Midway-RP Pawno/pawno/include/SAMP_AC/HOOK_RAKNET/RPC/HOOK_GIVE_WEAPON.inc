@@ -1,0 +1,31 @@
+ORPC:RPC_GIVE_WEAPON(playerid, BitStream:bs)
+{
+	if(playerid == -1) return true;
+	
+	new 
+		SAMP_AC_WEAPON,
+		SAMP_AC_AMMOUT;
+		
+	BS_ReadUint16(bs, SAMP_AC_WEAPON);
+	BS_ReadUint32(bs, SAMP_AC_AMMOUT);
+	
+	new
+	    SAMP_AC_GIVE_WEAPON_SLOT = SAMP_AC_WEAPON_SLOT[SAMP_AC_WEAPON];
+
+	SAMP_AC_AMMOUT = SAMP_AC_AMMOUT / 65536;
+
+	if(SAMP_AC_AMMOUT < -32768) SAMP_AC_AMMOUT = -32768;
+	else if(SAMP_AC_AMMOUT > 32767) SAMP_AC_AMMOUT = 32767;
+
+	switch(SAMP_AC_WEAPON)
+	{
+		case 0..15, 40, 44..46:
+		{
+			SERVER_INFO[playerid][SAMP_AMMOUT][SAMP_AC_GIVE_WEAPON_SLOT] = 1;
+		}
+		default: SERVER_INFO[playerid][SAMP_AMMOUT][SAMP_AC_GIVE_WEAPON_SLOT] += SAMP_AC_AMMOUT;
+	}
+	SERVER_INFO[playerid][SAMP_WEAPON][SAMP_AC_GIVE_WEAPON_SLOT] = SAMP_AC_WEAPON;
+	SERVER_INFO[playerid][SAMP_TIC_WEAPON] = SERVER_INFO[playerid][SAMP_TICK] + 1000;
+	return true;
+}

@@ -1,0 +1,10 @@
+	if(CENTER_CONTROLE[13][CONTROL_STATE] == 1 && SAMP_AC_CHECK_MODEL_VEHICLE(RAKNET_DRIVER[RAKNET_VEHICLE]))
+	{
+		if(SAMP_AC_REAL_SPEED(playerid) != 0 && SERVER_INFO[playerid][SAMP_LAST_SPEED] != 0 && SERVER_INFO[playerid][SAMP_SPEED_Z] > -0.1)
+		{
+			if(SERVER_INFO[playerid][SAMP_TICK] > SERVER_INFO[playerid][SAMP_FIX_SPEED] && SAMP_AC_REAL_SPEED(playerid) - SERVER_INFO[playerid][SAMP_LAST_SPEED] > 25)
+			{
+				SAMP_AC_SEND_WARNING_FOR_SCRIPT(playerid, "Speed Hack Sharp", 13, 0); 
+			}
+		}
+	}

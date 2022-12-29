@@ -1,0 +1,93 @@
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x67B4FDB0 Module: (libmysql.dll)
+
+Registers:
+EAX: 0x00000000	EBX: 0x00000000	ECX: 0x027B3AE8	EDX: 0x7FFFFF00
+ESI: 0x00000001	EDI: 0x00000000	EBP: 0x0019F93C	ESP: 0x0019F8D8
+EFLAGS: 0x00010246
+
+Stack:
++0000: 0x00000004   0x027B3AE8   0x67C0F342   0x027B3AE8
++0010: 0x027B3AE8   0x00000000   0x0019F90C   0x00000000
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000000
++0040: 0x00000001   0x00000000   0x67C0F342   0x0019F930
++0050: 0x67B6DAAF   0x00000030   0x0019FB28   0x67B4DEEB
++0060: 0xF619122D   0x0019FB28   0x67B531EE   0x027B3AE8
++0070: 0xFFFFFFFF   0x0977A68C   0x09769E70   0x0019FC40
++0080: 0x0112FB88   0x00000373   0x09D7A440   0x0019FA84
++0090: 0x000002F3   0x09D7A440   0x09D7A448   0x1E00001E
++00A0: 0x0977A6D4   0x000007FF   0x0977A6BC   0x00000000
++00B0: 0x00000000   0x02010002   0x007B96A0   0x007B00C0
++00C0: 0x1E00001E   0x00000000   0x0977A6A4   0x007B96A0
++00D0: 0x00000000   0x0977A68C   0x36373632   0x0019FC00
++00E0: 0x7732AD40   0x00000461   0xFFFFFFFE   0x0019FA58
++00F0: 0x00000000   0x00001000   0x00001008   0x00010890
++0100: 0x0019FA28   0x00001000   0x00000013   0x007B0000
++0110: 0x0000000A   0x00000001   0x01130100   0x00000461
++0120: 0x09D7B448   0x00002008   0x000003E1   0x09D7B448
++0130: 0x09D7B450   0x00001008   0x00000000   0x00000001
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\samp-server.exe)
+ntdll.dll	A: 0x772B0000 - 0x77453000	(C:\windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x76C60000 - 0x76D50000	(C:\windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x75C30000 - 0x75E44000	(C:\windows\System32\KERNELBASE.dll)
+apphelp.dll	A: 0x73A80000 - 0x73B1F000	(C:\windows\SYSTEM32\apphelp.dll)
+AcLayers.DLL	A: 0x737F0000 - 0x73A74000	(C:\windows\SYSTEM32\AcLayers.DLL)
+msvcrt.dll	A: 0x76E70000 - 0x76F2F000	(C:\windows\System32\msvcrt.dll)
+USER32.dll	A: 0x751E0000 - 0x75380000	(C:\windows\System32\USER32.dll)
+win32u.dll	A: 0x76C30000 - 0x76C48000	(C:\windows\System32\win32u.dll)
+GDI32.dll	A: 0x76630000 - 0x76654000	(C:\windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x75B20000 - 0x75BFE000	(C:\windows\System32\gdi32full.dll)
+msvcp_win.dll	A: 0x77220000 - 0x7729B000	(C:\windows\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76510000 - 0x76630000	(C:\windows\System32\ucrtbase.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x764A6000	(C:\windows\System32\SHELL32.dll)
+SHLWAPI.dll	A: 0x75380000 - 0x753C5000	(C:\windows\System32\SHLWAPI.dll)
+OLEAUT32.dll	A: 0x75A10000 - 0x75AA6000	(C:\windows\System32\OLEAUT32.dll)
+combase.dll	A: 0x76F90000 - 0x77211000	(C:\windows\System32\combase.dll)
+RPCRT4.dll	A: 0x76D50000 - 0x76E0F000	(C:\windows\System32\RPCRT4.dll)
+SETUPAPI.dll	A: 0x755D0000 - 0x75A0C000	(C:\windows\System32\SETUPAPI.dll)
+cfgmgr32.dll	A: 0x76E30000 - 0x76E6B000	(C:\windows\System32\cfgmgr32.dll)
+bcrypt.dll	A: 0x76E10000 - 0x76E29000	(C:\windows\System32\bcrypt.dll)
+MPR.dll	A: 0x737D0000 - 0x737E9000	(C:\windows\SYSTEM32\MPR.dll)
+sfc.dll	A: 0x66680000 - 0x66683000	(C:\windows\SYSTEM32\sfc.dll)
+WINSPOOL.DRV	A: 0x74C00000 - 0x74C72000	(C:\windows\SYSTEM32\WINSPOOL.DRV)
+sfc_os.DLL	A: 0x737C0000 - 0x737CF000	(C:\windows\SYSTEM32\sfc_os.DLL)
+SortWindows61.dll	A: 0x737B0000 - 0x737BF000	(C:\windows\SYSTEM32\SortWindows61.dll)
+IMM32.DLL	A: 0x75C00000 - 0x75C25000	(C:\windows\System32\IMM32.DLL)
+WSOCK32.dll	A: 0x749A0000 - 0x749A8000	(C:\windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x75AB0000 - 0x75B13000	(C:\windows\System32\WS2_32.dll)
+WINMM.dll	A: 0x75140000 - 0x75168000	(C:\windows\SYSTEM32\WINMM.dll)
+mysql.DLL	A: 0x68050000 - 0x68094000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\mysql.DLL)
+libmysql.dll	A: 0x67B40000 - 0x6804D000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\libmysql.dll)
+VCRUNTIME140.dll	A: 0x6A210000 - 0x6A225000	(C:\windows\SYSTEM32\VCRUNTIME140.dll)
+MSVCP140.dll	A: 0x67AD0000 - 0x67B3D000	(C:\windows\SYSTEM32\MSVCP140.dll)
+ADVAPI32.dll	A: 0x75E50000 - 0x75ECA000	(C:\windows\System32\ADVAPI32.dll)
+sechost.dll	A: 0x76AD0000 - 0x76B45000	(C:\windows\System32\sechost.dll)
+Secur32.dll	A: 0x740F0000 - 0x740FA000	(C:\windows\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x740C0000 - 0x740E1000	(C:\windows\SYSTEM32\SSPICLI.DLL)
+napinsp.dll	A: 0x69290000 - 0x692A1000	(C:\windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x67AB0000 - 0x67AC6000	(C:\windows\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x6A200000 - 0x6A210000	(C:\windows\system32\wshbth.dll)
+NLAapi.dll	A: 0x67A90000 - 0x67AA6000	(C:\windows\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x73770000 - 0x737A2000	(C:\windows\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x74060000 - 0x740B2000	(C:\windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x6B2D0000 - 0x6B361000	(C:\windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x75170000 - 0x75177000	(C:\windows\System32\NSI.dll)
+winrnr.dll	A: 0x69280000 - 0x6928E000	(C:\windows\System32\winrnr.dll)
+rasadhlp.dll	A: 0x6B2C0000 - 0x6B2C8000	(C:\Windows\System32\rasadhlp.dll)
+pawncmd.DLL	A: 0x67A50000 - 0x67A89000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\pawncmd.DLL)
+pawnregex.DLL	A: 0x67A10000 - 0x67A47000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\pawnregex.DLL)
+profiler.DLL	A: 0x679D0000 - 0x67A0F000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\profiler.DLL)
+MSVCP100.dll	A: 0x67960000 - 0x679C9000	(C:\windows\SYSTEM32\MSVCP100.dll)
+MSVCR100.dll	A: 0x678A0000 - 0x6795F000	(C:\windows\SYSTEM32\MSVCR100.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\sscanf.DLL)
+streamer.DLL	A: 0x67830000 - 0x67897000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\streamer.DLL)
+TOTP.DLL	A: 0x67810000 - 0x67827000	(D:\œ–Œ≈ “€\MIDWAY √— ◊¿“ À»Õ” —32·ËÚ V1 pass 12345\—≈–¬≈– —¿Ãœ MIDWAY\SAMPSERVERMidway\Midway rp\plugins\TOTP.DLL)
+kernel.appcore.dll	A: 0x74900000 - 0x7490F000	(C:\windows\SYSTEM32\kernel.appcore.dll)

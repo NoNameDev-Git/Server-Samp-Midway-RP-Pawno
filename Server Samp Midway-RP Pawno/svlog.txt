@@ -1,0 +1,29 @@
+[04:18:18] : [sv:dbg:network:init] : module initializing...
+[04:18:18] : [dbg:raknet:init] : module initializing...
+[04:18:18] : [dbg:raknet:init] : module initialized
+[04:18:18] : [sv:dbg:network:init] : module initialized
+[04:18:18] : [sv:dbg:main:Load] : creating 8 work threads...
+[04:18:18] :  -------------------------------------------    
+[04:18:18] :    ___                __   __    _              
+[04:18:18] :   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[04:18:19] :   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[04:18:19] :   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[04:18:19] :                   |_|                           
+[04:18:20] :  -------------------------------------------    
+[04:18:20] :            SampVoice by MOR loaded              
+[04:18:20] :  -------------------------------------------    
+[04:18:26] : [sv:dbg:main:AmxLoad] : net game pointer (value:02926704) received
+[04:18:26] : [sv:dbg:network:bind] : voice server running on port 59096
+[04:18:26] : [sv:dbg:pawn:register] : finding 'OnPlayerActivationKeyPress' callback function...
+[04:18:26] : [sv:dbg:pawn:register] : finded 'OnPlayerActivationKeyPress' callback function (index:104)
+[04:18:26] : [sv:dbg:pawn:register] : finding 'OnPlayerActivationKeyRelease' callback function...
+[04:18:26] : [sv:dbg:pawn:register] : finded 'OnPlayerActivationKeyRelease' callback function (index:105)
+[04:18:28] :  -------------------------------------------
+[04:18:28] :            SampVoice unloading...           
+[04:18:28] :  -------------------------------------------
+[04:18:28] : [sv:dbg:pawn:free] : module releasing...
+[04:18:28] : [sv:dbg:pawn:free] : module released
+[04:18:28] : [dbg:raknet:free] : module releasing...
+[04:18:28] : [dbg:raknet:free] : module released
+[04:18:28] : [sv:dbg:network:free] : module releasing...
+[04:18:28] : [sv:dbg:network:free] : module released

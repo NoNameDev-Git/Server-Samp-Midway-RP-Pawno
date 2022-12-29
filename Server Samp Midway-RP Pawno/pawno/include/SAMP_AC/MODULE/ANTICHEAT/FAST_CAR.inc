@@ -1,0 +1,10 @@
+	if(CENTER_CONTROLE[5][CONTROL_STATE] == 1)
+	{
+		if(RAKNET_DRIVER[RAKNET_VEHICLE] > 0 && SERVER_INFO[playerid][SAMP_FUNC][1] != 0 && SERVER_INFO[playerid][SAMP_FUNC][2] != 0)
+		{
+			if(SERVER_INFO[playerid][SAMP_ID_VEHICLE] != 0 && SERVER_INFO[playerid][SAMP_ID_VEHICLE] != RAKNET_DRIVER[RAKNET_VEHICLE] && SERVER_INFO[playerid][SAMP_USE_VEHICLE] == 0)
+			{
+				SAMP_AC_SEND_WARNING_FOR_SCRIPT(playerid, "Fast Car Driver", 5, 0);
+			}
+		}
+	}

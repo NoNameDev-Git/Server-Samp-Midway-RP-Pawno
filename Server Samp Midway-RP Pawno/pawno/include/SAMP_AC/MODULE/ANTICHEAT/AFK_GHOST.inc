@@ -1,0 +1,7 @@
+	if(CENTER_CONTROLE[10][CONTROL_STATE] == 1)
+	{
+		if(IsPlayerInRangeOfPoint(playerid, 8.0, RAKNET_BULLET[RAKNET_START_X], RAKNET_BULLET[RAKNET_START_Y], RAKNET_BULLET[RAKNET_START_Z]) == 0)
+		{
+			SAMP_AC_SEND_WARNING_FOR_SCRIPT(playerid, "Afk Ghost", 10, 1);
+		}
+	}
