@@ -1,6 +1,5 @@
 <h1 align="center">Server Samp Midway-RP Pawno</h1>
 
-### GamePlay
 
 <p align="center">
 	<img src="https://i.postimg.cc/WpqXfdbg/Samp4.png" />
