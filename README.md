@@ -26,8 +26,12 @@
 	<img src="https://i.postimg.cc/s23XQG1W/Samp3.png" />
 </p>
 
--------
 
+-------
+### Video
+[![video](https://i.postimg.cc/XqFTD88p/13504-min.jpg)](https://youtu.be/M07c8p7eR4g)
+
+-------
 
 
 ### Support
