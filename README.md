@@ -28,7 +28,7 @@
 
 -------
 ### Video
-[![video](https://i.postimg.cc/fbQj5cbg/samp-870x400.jpg)](https://youtu.be/M07c8p7eR4g)
+[![video](https://i.postimg.cc/HjGVHtRq/article-1280x720-2fbcebb2.jpg)](https://youtu.be/M07c8p7eR4g)
 
 -------
 
