@@ -1,5 +1,6 @@
 <h1 align="center">Server Samp Midway-RP Pawno</h1>
 
+Server samp R2 Linux 32 bit. R3 client. installation of additional software VCR_Hyb_x86_x64.
 
 <p align="center">
 	<img src="https://i.postimg.cc/WpqXfdbg/Samp4.png" />
